@@ -1,0 +1,1457 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-18T03:26:33.203Z",
+  "total": 100,
+  "entries": {
+    "v0001": {
+      "synonyms": [
+        "bookkeeper",
+        "auditor",
+        "comptroller",
+        "financial officer"
+      ],
+      "antonyms": [],
+      "family": [
+        "account",
+        "accounting",
+        "accountable"
+      ]
+    },
+    "v0002": {
+      "synonyms": [
+        "airfield",
+        "aerodrome",
+        "terminal"
+      ],
+      "antonyms": [],
+      "family": [
+        "air",
+        "airplane",
+        "airborne"
+      ]
+    },
+    "v0003": {
+      "synonyms": [
+        "candidate",
+        "petitioner",
+        "suitor",
+        "claimant"
+      ],
+      "antonyms": [],
+      "family": [
+        "apply",
+        "application",
+        "applicable"
+      ]
+    },
+    "v0004": {
+      "synonyms": [
+        "assistant",
+        "helper",
+        "server",
+        "usher"
+      ],
+      "antonyms": [],
+      "family": [
+        "attend",
+        "attendance",
+        "attentive"
+      ]
+    },
+    "v0005": {
+      "synonyms": [
+        "bike",
+        "cycle",
+        "two-wheeler"
+      ],
+      "antonyms": [],
+      "family": [
+        "cycle",
+        "cyclist",
+        "cycling"
+      ]
+    },
+    "v0006": {
+      "synonyms": [
+        "pamphlet",
+        "leaflet",
+        "booklet",
+        "flyer"
+      ],
+      "antonyms": [],
+      "family": []
+    },
+    "v0007": {
+      "synonyms": [
+        "canteen",
+        "diner",
+        "eatery",
+        "mess hall"
+      ],
+      "antonyms": [],
+      "family": [
+        "cafe",
+        "cater",
+        "catering"
+      ]
+    },
+    "v0008": {
+      "synonyms": [
+        "visitor",
+        "guest",
+        "phone caller",
+        "telephoner"
+      ],
+      "antonyms": [],
+      "family": [
+        "call",
+        "calling",
+        "callable"
+      ]
+    },
+    "v0009": {
+      "synonyms": [
+        "applicant",
+        "nominee",
+        "contestant",
+        "hopeful"
+      ],
+      "antonyms": [],
+      "family": [
+        "candidacy",
+        "candidature"
+      ]
+    },
+    "v0010": {
+      "synonyms": [
+        "cook",
+        "head cook",
+        "culinary artist"
+      ],
+      "antonyms": [],
+      "family": [
+        "cuisine",
+        "culinary"
+      ]
+    },
+    "v0011": {
+      "synonyms": [
+        "assistant",
+        "sales associate",
+        "receptionist",
+        "desk clerk"
+      ],
+      "antonyms": [],
+      "family": [
+        "clerical",
+        "clerkship"
+      ]
+    },
+    "v0012": {
+      "synonyms": [
+        "customer",
+        "patron",
+        "consumer",
+        "buyer"
+      ],
+      "antonyms": [],
+      "family": [
+        "clientele"
+      ]
+    },
+    "v0013": {
+      "synonyms": [
+        "fabric",
+        "material",
+        "textile",
+        "rag"
+      ],
+      "antonyms": [],
+      "family": [
+        "clothe",
+        "clothing",
+        "clothed"
+      ]
+    },
+    "v0014": {
+      "synonyms": [
+        "meeting",
+        "seminar",
+        "convention",
+        "symposium"
+      ],
+      "antonyms": [],
+      "family": [
+        "confer",
+        "conferee"
+      ]
+    },
+    "v0015": {
+      "synonyms": [
+        "accurately",
+        "precisely",
+        "properly",
+        "rightly"
+      ],
+      "antonyms": [
+        "incorrectly",
+        "wrongly"
+      ],
+      "family": [
+        "correct",
+        "correction",
+        "correctness"
+      ]
+    },
+    "v0016": {
+      "synonyms": [
+        "due date",
+        "cutoff",
+        "time limit",
+        "completion date"
+      ],
+      "antonyms": [],
+      "family": []
+    },
+    "v0017": {
+      "synonyms": [
+        "city center",
+        "business district",
+        "urban core"
+      ],
+      "antonyms": [
+        "uptown",
+        "suburb"
+      ],
+      "family": [
+        "town"
+      ]
+    },
+    "v0018": {
+      "synonyms": [
+        "electronic book",
+        "digital book",
+        "ebook"
+      ],
+      "antonyms": [
+        "print book",
+        "paperback"
+      ],
+      "family": [
+        "book",
+        "bookish",
+        "bookworm"
+      ]
+    },
+    "v0019": {
+      "synonyms": [
+        "lift",
+        "hoist"
+      ],
+      "antonyms": [],
+      "family": [
+        "elevate",
+        "elevation",
+        "elevated"
+      ]
+    },
+    "v0020": {
+      "synonyms": [
+        "encircle",
+        "surround",
+        "contain",
+        "include"
+      ],
+      "antonyms": [
+        "open",
+        "release"
+      ],
+      "family": [
+        "enclosure",
+        "enclosed"
+      ]
+    },
+    "v0021": {
+      "synonyms": [
+        "ticket price",
+        "charge",
+        "fee",
+        "cost"
+      ],
+      "antonyms": [],
+      "family": []
+    },
+    "v0022": {
+      "synonyms": [
+        "transmit",
+        "send",
+        "telecopy"
+      ],
+      "antonyms": [],
+      "family": [
+        "fax"
+      ]
+    },
+    "v0023": {
+      "synonyms": [
+        "merchandise",
+        "products",
+        "commodities",
+        "wares"
+      ],
+      "antonyms": [
+        "services"
+      ],
+      "family": [
+        "good",
+        "goodness",
+        "goodly"
+      ]
+    },
+    "v0024": {
+      "synonyms": [
+        "deduce",
+        "conclude",
+        "surmise",
+        "gather"
+      ],
+      "antonyms": [
+        "state",
+        "explain"
+      ],
+      "family": [
+        "inference",
+        "inferential"
+      ]
+    },
+    "v0025": {
+      "synonyms": [
+        "bill",
+        "statement",
+        "charge",
+        "account"
+      ],
+      "antonyms": [],
+      "family": [
+        "invoice"
+      ]
+    },
+    "v0026": {
+      "synonyms": [
+        "rent",
+        "hire",
+        "charter"
+      ],
+      "antonyms": [
+        "own",
+        "buy"
+      ],
+      "family": [
+        "lease",
+        "lessee",
+        "lessor"
+      ]
+    },
+    "v0027": {
+      "synonyms": [
+        "foyer",
+        "entrance hall",
+        "reception area",
+        "vestibule"
+      ],
+      "antonyms": [],
+      "family": [
+        "lobby",
+        "lobbyist"
+      ]
+    },
+    "v0028": {
+      "synonyms": [
+        "rational",
+        "sensible",
+        "reasonable",
+        "coherent"
+      ],
+      "antonyms": [
+        "illogical",
+        "irrational"
+      ],
+      "family": [
+        "logic",
+        "logically",
+        "illogical"
+      ]
+    },
+    "v0029": {
+      "synonyms": [
+        "baggage",
+        "suitcases",
+        "bags",
+        "cases"
+      ],
+      "antonyms": [],
+      "family": [
+        "lug",
+        "lugger"
+      ]
+    },
+    "v0030": {
+      "synonyms": [
+        "memorandum",
+        "note",
+        "message",
+        "reminder"
+      ],
+      "antonyms": [],
+      "family": [
+        "memorize",
+        "memory"
+      ]
+    },
+    "v0031": {
+      "synonyms": [
+        "sir",
+        "gentleman",
+        "man"
+      ],
+      "antonyms": [
+        "miss",
+        "madam"
+      ],
+      "family": []
+    },
+    "v0032": {
+      "synonyms": [
+        "midday",
+        "twelve o'clock",
+        "lunchtime"
+      ],
+      "antonyms": [
+        "midnight"
+      ],
+      "family": [
+        "noonday"
+      ]
+    },
+    "v0033": {
+      "synonyms": [
+        "inform",
+        "advise",
+        "announce",
+        "alert"
+      ],
+      "antonyms": [
+        "conceal",
+        "withhold"
+      ],
+      "family": [
+        "notification",
+        "notified",
+        "noticeable"
+      ]
+    },
+    "v0034": {
+      "synonyms": [
+        "hour",
+        "time",
+        "clock time"
+      ],
+      "antonyms": [],
+      "family": [
+        "clock"
+      ]
+    },
+    "v0035": {
+      "synonyms": [
+        "sneak peek",
+        "advance viewing",
+        "pre-screening",
+        "foretaste"
+      ],
+      "antonyms": [
+        "review",
+        "postview"
+      ],
+      "family": [
+        "preview",
+        "viewer"
+      ]
+    },
+    "v0036": {
+      "synonyms": [
+        "issue",
+        "release",
+        "print",
+        "disseminate"
+      ],
+      "antonyms": [
+        "withdraw",
+        "suppress"
+      ],
+      "family": [
+        "publication",
+        "publisher",
+        "public"
+      ]
+    },
+    "v0037": {
+      "synonyms": [
+        "proof of purchase",
+        "sales slip",
+        "voucher",
+        "stub"
+      ],
+      "antonyms": [],
+      "family": [
+        "receive",
+        "reception",
+        "receivable"
+      ]
+    },
+    "v0038": {
+      "synonyms": [
+        "welcome",
+        "greeting",
+        "party",
+        "gathering"
+      ],
+      "antonyms": [
+        "departure",
+        "farewell"
+      ],
+      "family": [
+        "receive",
+        "receptive",
+        "receptionist"
+      ]
+    },
+    "v0039": {
+      "synonyms": [
+        "reimburse",
+        "repay",
+        "return",
+        "compensate"
+      ],
+      "antonyms": [
+        "charge",
+        "collect"
+      ],
+      "family": [
+        "refund",
+        "refundable"
+      ]
+    },
+    "v0040": {
+      "synonyms": [
+        "lease",
+        "hire",
+        "renting",
+        "tenancy"
+      ],
+      "antonyms": [
+        "ownership",
+        "purchase"
+      ],
+      "family": [
+        "rent",
+        "renter",
+        "rentable"
+      ]
+    },
+    "v0041": {
+      "synonyms": [
+        "booking",
+        "appointment",
+        "arrangement",
+        "hold"
+      ],
+      "antonyms": [
+        "cancellation"
+      ],
+      "family": [
+        "reserve",
+        "reserved",
+        "reserving"
+      ]
+    },
+    "v0042": {
+      "synonyms": [
+        "workshop",
+        "conference",
+        "lecture",
+        "colloquium"
+      ],
+      "antonyms": [],
+      "family": [
+        "seminary"
+      ]
+    },
+    "v0043": {
+      "synonyms": [
+        "delivery",
+        "consignment",
+        "cargo",
+        "freight"
+      ],
+      "antonyms": [],
+      "family": [
+        "ship",
+        "shipping",
+        "shipper"
+      ]
+    },
+    "v0044": {
+      "synonyms": [
+        "genuinely",
+        "truly",
+        "honestly",
+        "earnestly"
+      ],
+      "antonyms": [
+        "insincerely",
+        "falsely"
+      ],
+      "family": [
+        "sincere",
+        "sincerity"
+      ]
+    },
+    "v0045": {
+      "synonyms": [
+        "someday",
+        "eventually",
+        "at some point",
+        "one day"
+      ],
+      "antonyms": [
+        "never",
+        "immediately"
+      ],
+      "family": [
+        "time",
+        "timely"
+      ]
+    },
+    "v0046": {
+      "synonyms": [
+        "membership",
+        "enrollment",
+        "registration",
+        "access"
+      ],
+      "antonyms": [
+        "cancellation",
+        "unsubscribe"
+      ],
+      "family": [
+        "subscribe",
+        "subscriber",
+        "subscribed"
+      ]
+    },
+    "v0047": {
+      "synonyms": [
+        "underground",
+        "metro",
+        "tube",
+        "rapid transit"
+      ],
+      "antonyms": [],
+      "family": [
+        "way"
+      ]
+    },
+    "v0048": {
+      "synonyms": [
+        "manager",
+        "director",
+        "foreman",
+        "overseer"
+      ],
+      "antonyms": [
+        "subordinate",
+        "employee"
+      ],
+      "family": [
+        "supervise",
+        "supervision",
+        "supervisory"
+      ]
+    },
+    "v0049": {
+      "synonyms": [
+        "specialist",
+        "engineer",
+        "expert",
+        "operative"
+      ],
+      "antonyms": [],
+      "family": [
+        "technical",
+        "technique",
+        "technology"
+      ]
+    },
+    "v0050": {
+      "synonyms": [
+        "passenger",
+        "tourist",
+        "voyager",
+        "commuter"
+      ],
+      "antonyms": [
+        "resident",
+        "local"
+      ],
+      "family": [
+        "travel",
+        "traveling",
+        "journey"
+      ]
+    },
+    "v0051": {
+      "synonyms": [
+        "holiday",
+        "break",
+        "getaway",
+        "recess"
+      ],
+      "antonyms": [
+        "work",
+        "labor"
+      ],
+      "family": [
+        "vacationer",
+        "vacationing"
+      ]
+    },
+    "v0052": {
+      "synonyms": [
+        "server",
+        "attendant",
+        "steward"
+      ],
+      "antonyms": [],
+      "family": [
+        "wait",
+        "waiting",
+        "waitress"
+      ]
+    },
+    "v0053": {
+      "synonyms": [
+        "guarantee",
+        "assurance",
+        "pledge",
+        "bond"
+      ],
+      "antonyms": [],
+      "family": [
+        "warrant",
+        "warranted",
+        "warrantable"
+      ]
+    },
+    "v0054": {
+      "synonyms": [
+        "site",
+        "webpage",
+        "portal"
+      ],
+      "antonyms": [],
+      "family": [
+        "web",
+        "webmaster",
+        "web-based"
+      ]
+    },
+    "v0055": {
+      "synonyms": [
+        "seminar",
+        "session",
+        "studio",
+        "factory"
+      ],
+      "antonyms": [],
+      "family": [
+        "work",
+        "worker",
+        "working"
+      ]
+    },
+    "v0056": {
+      "synonyms": [
+        "entry",
+        "access",
+        "acceptance",
+        "confession"
+      ],
+      "antonyms": [
+        "denial",
+        "exclusion"
+      ],
+      "family": [
+        "admit",
+        "admissible",
+        "admittedly"
+      ]
+    },
+    "v0057": {
+      "synonyms": [
+        "aircraft",
+        "plane",
+        "airliner"
+      ],
+      "antonyms": [],
+      "family": [
+        "air",
+        "pilot",
+        "airborne"
+      ]
+    },
+    "v0058": {
+      "synonyms": [
+        "device",
+        "gadget",
+        "apparatus",
+        "machine"
+      ],
+      "antonyms": [],
+      "family": [
+        "apply",
+        "applicable",
+        "application"
+      ]
+    },
+    "v0059": {
+      "synonyms": [
+        "task",
+        "project",
+        "duty",
+        "homework"
+      ],
+      "antonyms": [],
+      "family": [
+        "assign",
+        "assigned",
+        "assignable"
+      ]
+    },
+    "v0060": {
+      "synonyms": [
+        "participant",
+        "delegate",
+        "guest",
+        "visitor"
+      ],
+      "antonyms": [
+        "absentee"
+      ],
+      "family": [
+        "attend",
+        "attendance",
+        "attendant"
+      ]
+    },
+    "v0061": {
+      "synonyms": [
+        "anniversary",
+        "birthdate"
+      ],
+      "antonyms": [],
+      "family": [
+        "birth",
+        "born",
+        "day"
+      ]
+    },
+    "v0062": {
+      "synonyms": [
+        "cupboard",
+        "locker",
+        "case",
+        "unit"
+      ],
+      "antonyms": [],
+      "family": [
+        "cabin",
+        "cabinetry",
+        "cabinetmaker"
+      ]
+    },
+    "v0063": {
+      "synonyms": [
+        "mobile phone",
+        "cell",
+        "smartphone",
+        "handset"
+      ],
+      "antonyms": [],
+      "family": [
+        "cell",
+        "phone",
+        "cellular"
+      ]
+    },
+    "v0064": {
+      "synonyms": [
+        "hint",
+        "indication",
+        "lead",
+        "evidence"
+      ],
+      "antonyms": [],
+      "family": [
+        "clueless",
+        "clued",
+        "unclue"
+      ]
+    },
+    "v0065": {
+      "synonyms": [
+        "dense",
+        "compressed",
+        "small",
+        "concise"
+      ],
+      "antonyms": [
+        "sprawling",
+        "loose"
+      ],
+      "family": [
+        "compactly",
+        "compactness",
+        "compact"
+      ]
+    },
+    "v0066": {
+      "synonyms": [
+        "understanding",
+        "grasp",
+        "apprehension",
+        "insight"
+      ],
+      "antonyms": [
+        "misunderstanding"
+      ],
+      "family": [
+        "comprehend",
+        "comprehensive",
+        "comprehensible"
+      ]
+    },
+    "v0067": {
+      "synonyms": [
+        "deny",
+        "refute",
+        "oppose",
+        "challenge"
+      ],
+      "antonyms": [
+        "confirm",
+        "agree"
+      ],
+      "family": [
+        "contradiction",
+        "contradictory",
+        "contradicting"
+      ]
+    },
+    "v0068": {
+      "synonyms": [
+        "handy",
+        "practical",
+        "suitable",
+        "accessible"
+      ],
+      "antonyms": [
+        "inconvenient",
+        "awkward"
+      ],
+      "family": [
+        "convenience",
+        "conveniently",
+        "inconvenience"
+      ]
+    },
+    "v0069": {
+      "synonyms": [
+        "voucher",
+        "discount",
+        "token",
+        "ticket"
+      ],
+      "antonyms": [],
+      "family": [
+        "couponing",
+        "couponer"
+      ]
+    },
+    "v0070": {
+      "synonyms": [
+        "colleague",
+        "associate",
+        "teammate",
+        "peer"
+      ],
+      "antonyms": [],
+      "family": [
+        "work",
+        "worker",
+        "working"
+      ]
+    },
+    "v0071": {
+      "synonyms": [
+        "voyage",
+        "journey",
+        "trip",
+        "excursion"
+      ],
+      "antonyms": [],
+      "family": [
+        "cruise",
+        "cruising",
+        "cruiser"
+      ]
+    },
+    "v0072": {
+      "synonyms": [
+        "orthodontist",
+        "dental surgeon"
+      ],
+      "antonyms": [],
+      "family": [
+        "dental",
+        "dentistry",
+        "teeth"
+      ]
+    },
+    "v0073": {
+      "synonyms": [
+        "leave",
+        "exit",
+        "set off",
+        "embark"
+      ],
+      "antonyms": [
+        "arrive",
+        "stay"
+      ],
+      "family": [
+        "departure",
+        "departing",
+        "departed"
+      ]
+    },
+    "v0074": {
+      "synonyms": [
+        "goal",
+        "objective",
+        "target",
+        "endpoint"
+      ],
+      "antonyms": [
+        "origin",
+        "starting point"
+      ],
+      "family": [
+        "destine",
+        "destined",
+        "predestination"
+      ]
+    },
+    "v0075": {
+      "synonyms": [
+        "eat",
+        "feast",
+        "sup",
+        "consume"
+      ],
+      "antonyms": [
+        "fast"
+      ],
+      "family": [
+        "dinner",
+        "diner",
+        "dining"
+      ]
+    },
+    "v0076": {
+      "synonyms": [
+        "electric",
+        "electronic",
+        "powered"
+      ],
+      "antonyms": [
+        "nonelectrical",
+        "mechanical"
+      ],
+      "family": [
+        "electricity",
+        "electrician",
+        "electrically"
+      ]
+    },
+    "v0077": {
+      "synonyms": [
+        "leave",
+        "depart",
+        "go out",
+        "withdraw"
+      ],
+      "antonyms": [
+        "enter",
+        "arrive"
+      ],
+      "family": [
+        "exit",
+        "exiting",
+        "exited"
+      ]
+    },
+    "v0078": {
+      "synonyms": [
+        "illustrative",
+        "elucidative",
+        "informative",
+        "descriptive"
+      ],
+      "antonyms": [
+        "confusing",
+        "misleading"
+      ],
+      "family": [
+        "explain",
+        "explanation",
+        "explainable"
+      ]
+    },
+    "v0079": {
+      "synonyms": [
+        "carport",
+        "workshop",
+        "repair shop"
+      ],
+      "antonyms": [],
+      "family": [
+        "garage",
+        "garaging",
+        "garaged"
+      ]
+    },
+    "v0080": {
+      "synonyms": [
+        "id",
+        "credentials",
+        "recognition",
+        "proof"
+      ],
+      "antonyms": [],
+      "family": [
+        "identify",
+        "identifiable",
+        "identity"
+      ]
+    },
+    "v0081": {
+      "synonyms": [
+        "conclusion",
+        "deduction",
+        "assumption",
+        "interpretation"
+      ],
+      "antonyms": [
+        "fact",
+        "premise"
+      ],
+      "family": [
+        "infer",
+        "inferential",
+        "inferable"
+      ]
+    },
+    "v0082": {
+      "synonyms": [
+        "teacher",
+        "coach",
+        "mentor",
+        "trainer"
+      ],
+      "antonyms": [
+        "student",
+        "learner"
+      ],
+      "family": [
+        "instruct",
+        "instruction",
+        "instructive"
+      ]
+    },
+    "v0083": {
+      "synonyms": [
+        "stock",
+        "catalog",
+        "list",
+        "supply"
+      ],
+      "antonyms": [],
+      "family": [
+        "inventory",
+        "inventoried",
+        "inventorying"
+      ]
+    },
+    "v0084": {
+      "synonyms": [
+        "keypad",
+        "console"
+      ],
+      "antonyms": [],
+      "family": [
+        "keyboard",
+        "keyboarder",
+        "key"
+      ]
+    },
+    "v0085": {
+      "synonyms": [
+        "notebook",
+        "portable computer"
+      ],
+      "antonyms": [
+        "desktop"
+      ],
+      "family": [
+        "computer",
+        "computing",
+        "portable"
+      ]
+    },
+    "v0086": {
+      "synonyms": [
+        "shopping center",
+        "plaza",
+        "arcade",
+        "market"
+      ],
+      "antonyms": [],
+      "family": [
+        "shop",
+        "shopping",
+        "shopper"
+      ]
+    },
+    "v0087": {
+      "synonyms": [
+        "handbook",
+        "guide",
+        "instruction book",
+        "booklet"
+      ],
+      "antonyms": [],
+      "family": [
+        "manual",
+        "manually",
+        "manipulate"
+      ]
+    },
+    "v0088": {
+      "synonyms": [
+        "press",
+        "news",
+        "communication",
+        "broadcast"
+      ],
+      "antonyms": [],
+      "family": [
+        "medium",
+        "mediate",
+        "mediation"
+      ]
+    },
+    "v0089": {
+      "synonyms": [
+        "medicine",
+        "drug",
+        "remedy",
+        "pharmaceutical"
+      ],
+      "antonyms": [],
+      "family": [
+        "medicate",
+        "medical",
+        "medic"
+      ]
+    },
+    "v0090": {
+      "synonyms": [
+        "goods",
+        "products",
+        "wares",
+        "stock"
+      ],
+      "antonyms": [],
+      "family": [
+        "merchandise",
+        "merchant",
+        "merchandising"
+      ]
+    },
+    "v0091": {
+      "synonyms": [
+        "acquire",
+        "get",
+        "gain",
+        "procure"
+      ],
+      "antonyms": [
+        "lose",
+        "forfeit"
+      ],
+      "family": [
+        "obtainable",
+        "obtaining",
+        "obtainment"
+      ]
+    },
+    "v0092": {
+      "synonyms": [
+        "profession",
+        "job",
+        "career",
+        "vocation"
+      ],
+      "antonyms": [
+        "hobby",
+        "unemployment"
+      ],
+      "family": [
+        "occupy",
+        "occupied",
+        "occupational"
+      ]
+    },
+    "v0093": {
+      "synonyms": [
+        "open-air",
+        "alfresco",
+        "exterior"
+      ],
+      "antonyms": [
+        "indoor",
+        "interior"
+      ],
+      "family": [
+        "outdoors",
+        "out",
+        "door"
+      ]
+    },
+    "v0094": {
+      "synonyms": [
+        "ellipse",
+        "ovoid"
+      ],
+      "antonyms": [],
+      "family": [
+        "oval",
+        "ovate",
+        "oviform"
+      ]
+    },
+    "v0095": {
+      "synonyms": [
+        "travel document",
+        "identification"
+      ],
+      "antonyms": [],
+      "family": [
+        "pass",
+        "port",
+        "passage"
+      ]
+    },
+    "v0096": {
+      "synonyms": [
+        "delay",
+        "defer",
+        "put off",
+        "reschedule"
+      ],
+      "antonyms": [
+        "expedite",
+        "advance"
+      ],
+      "family": [
+        "postponement",
+        "postponing",
+        "postponed"
+      ]
+    },
+    "v0097": {
+      "synonyms": [
+        "come before",
+        "antedate",
+        "go ahead of",
+        "lead"
+      ],
+      "antonyms": [
+        "follow",
+        "succeed"
+      ],
+      "family": [
+        "precedence",
+        "preceding",
+        "precedent"
+      ]
+    },
+    "v0098": {
+      "synonyms": [
+        "front desk clerk",
+        "greeter",
+        "attendant"
+      ],
+      "antonyms": [],
+      "family": [
+        "reception",
+        "receive",
+        "receptive"
+      ]
+    },
+    "v0099": {
+      "synonyms": [
+        "refurbishment",
+        "remodeling",
+        "restoration",
+        "upgrade"
+      ],
+      "antonyms": [
+        "dilapidation",
+        "destruction"
+      ],
+      "family": [
+        "renovate",
+        "renovated",
+        "renovator"
+      ]
+    },
+    "v0100": {
+      "synonyms": [
+        "substitute",
+        "backup",
+        "successor",
+        "stand-in"
+      ],
+      "antonyms": [
+        "original",
+        "predecessor"
+      ],
+      "family": [
+        "replace",
+        "replaceable",
+        "replacing"
+      ]
+    }
+  }
+}

@@ -1,0 +1,560 @@
+acclaim (n) /əˈkleɪm/ 
+ UK 
+ US
+Định nghĩa:
+Sự chấp thuận và khen ngợi
+=approval and great praise
+Ví dụ:
+ Despite the critical [acclaim], the novel did not sell well (=Dịch: Mặc dù được giới phê bình khen ngợi, tiểu thuyết không bán chạy)
+ The service comes six months after the fountain was opened to massive public [acclaim]. (=Dịch: Dịch vụ được triển khai sáu tháng sau khi đài phun nước được khai trương và nhận được nhiều lời khen ngợi từ công chúng.)
+ All his novels are written in French, and they have received great [acclaim] there, winning the country's top prizes (=Dịch: Tất cả tiểu thuyết của anh ấy đều được viết bằng tiếng Pháp và chúng đã nhận được nhiều lời khen ngợi ở đó, giành được những giải thưởng hàng đầu của đất nước)
+
+
+bookcase (n) /ˈbʊk.keɪs/ 
+ UK 
+ US
+Định nghĩa:
+tủ sách, kệ sách
+=a piece of furniture with shelves for storing books
+Ví dụ:
+ These bulky albums are now spread across [bookcases], cupboards, trunks, and attics. (=Dịch: Những album cồng kềnh này bây giờ được trải rộng khắp các giá sách, tủ chén, rương và gác mái.)
+ The walls were covered with ceiling high wooden [bookcases] filled with books. (=Dịch: Các bức tường được phủ bởi các giá sách bằng gỗ cao tới trần nhà chứa đầy sách.)
+ There are two leather black couches, lots of [bookcases] full with files, maps, books.' (=Dịch: Có hai chiếc ghế sofa da đen, nhiều giá sách đầy tập tài liệu, bản đồ, sách.)
+
+
+cheer (v) /tʃɪər/ 
+ UK 
+ US
+Định nghĩa:
+cổ vũ, hoan hô
+=to cheer on, shout encouragement
+Ví dụ:
+ Everyone [cheered] as the winners received their medals. (=Dịch: Mọi người hò reo khi những người chiến thắng nhận huy chương.)
+ The races caused great excitement with the crowds [cheering] and hooting for their favourite teams. (=Dịch: Các cuộc đua đã gây ra sự phấn khích lớn với đám đông cổ vũ và la hét cho các đội yêu thích của họ.)
+ Investors appeared to [cheer] the news and the fall of the last few days started to turn around. (=Dịch: Các nhà đầu tư có vẻ phấn khởi trước tin tức và sự suy giảm trong vài ngày qua bắt đầu quay trở lại.)
+
+
+chronic (adj) /ˈkrɒn.ɪk/ 
+ UK 
+ US
+Định nghĩa:
+trong một khoảng thời gian dài
+=for a long time
+Ví dụ:
+ Mr. George is resigning because of [chronic] heart disease. (=Dịch: Ông George đang từ chức vì bệnh tim mạn tính.)
+ They insist that a pay rise is essential to attract new medical personnel and overcome [chronic] staff shortages. (=Dịch: Họ khăng khăng rằng việc tăng lương là cần thiết để thu hút nhân sự y tế mới và khắc phục tình trạng thiếu nhân viên kinh niên.)
+ A terrible drought last year sparked [chronic] food shortages this year. (=Dịch: Một trận hạn hán khủng khiếp năm ngoái đã gây ra tình trạng thiếu lương thực trầm trọng trong năm nay.)
+
+
+cleanliness (n) /ˈklen.li.nəs/ 
+ UK 
+ US
+Định nghĩa:
+trạng thái không bẩn, sạch sẽ
+=state of being not dirty, clean
+Ví dụ:
+ Her job involved checking the [cleanliness] of restaurants. (=Dịch: Công việc của cô ấy liên quan đến việc kiểm tra sự sạch sẽ của các nhà hàng.)
+ Standards of [cleanliness] have been criticized by patients and visitors (=Dịch: Tiêu chuẩn vệ sinh đã bị chỉ trích bởi bệnh nhân và khách thăm.)
+ She had an obsession with personal [cleanliness] and spent much of her time in the bathroom (=Dịch: Cô ấy có một nỗi ám ảnh về sự sạch sẽ cá nhân và dành nhiều thời gian trong phòng tắm.)
+
+
+complication (n) /ˌkɒm.plɪˈkeɪ.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+sự phức tạp, sự rắc rối
+=the act of making something more difficult
+Ví dụ:
+ Dave couldn't find his passport at the airport and then there were further [complications] when Fiona lost her baggage. (=Dịch: Dave đã không thể tìm thấy hộ chiếu của anh ấy tại sân bay và sau đó có thêm phức tạp khi Fiona mất hành lý của cô ấy.)
+ There is a [complication] concerning ownership of the site (=Dịch: Có một vấn đề phức tạp liên quan đến quyền sở hữu của khu vực này.)
+ Three projects keep you energised, as deadlines have to be met and [complications] sorted out. (=Dịch: Ba dự án giữ cho bạn tràn đầy năng lượng, vì các thời hạn phải được đáp ứng và các vấn đề phức tạp phải được giải quyết.)
+
+
+considerate (adj) /kənˈsɪd.ər.ət/ 
+ UK 
+ US
+Định nghĩa:
+ân cần, chu đáo, hay quan tâm tới người khác
+=showing concern for the rights and feelings of others
+Ví dụ:
+ The chairman's statement is [considerate] of the diverse interests represented by the leaders in the meeting (=Dịch: Tuyên bố của chủ tịch rất chu đáo đối với các lợi ích đa dạng được đại diện bởi các nhà lãnh đạo trong cuộc họp)
+ She's [considerate] of your needs and respects the terms of your contract. (=Dịch: Cô ấy quan tâm đến nhu cầu của bạn và tôn trọng các điều khoản trong hợp đồng của bạn.)
+ Even those of us who are self-employed still must be [considerate] of our clients and suppliers. (=Dịch: Ngay cả những người trong chúng ta tự làm việc cũng phải quan tâm đến khách hàng và nhà cung cấp của mình.)
+
+
+contestant (n) /kənˈtes.tənt/ 
+ UK 
+ US
+Định nghĩa:
+thí sinh, người dự thi
+=someone who is part of a contest
+Ví dụ:
+ The applicants were then interviewed and tested for suitability and [contestants] selected. (=Dịch: Sau đó các ứng viên được phỏng vấn và kiểm tra về mức độ phù hợp và những người tham gia được chọn.)
+ In order to qualify, all 100 [contestants] on the shortlist have to answer the same question. (=Dịch: Để đủ điều kiện, tất cả 100 thí sinh trong danh sách ngắn phải trả lời cùng một câu hỏi.)
+ The [contestants] will be judged on technical skills as well as for smooth presentation. (=Dịch: Các thí sinh sẽ được đánh giá về kỹ năng kỹ thuật cũng như khả năng trình bày mượt mà.)
+
+
+daytime (n) /ˈdeɪ.taɪm/ 
+ UK 
+ US
+Định nghĩa:
+ban ngày
+=The time between when the sun rises and when it goes down; not nightime
+Ví dụ:
+ I'd prefer a flight that leaves in the [daytime], as I'll have young children with me. (=Dịch: Tôi thích một chuyến bay khởi hành vào ban ngày hơn, vì tôi sẽ có trẻ nhỏ đi cùng.)
+ The courses run in the [daytime], evenings and weekends at different times and venues to suit all. (=Dịch: Các khóa học diễn ra vào ban ngày, buổi tối và cuối tuần vào các thời gian và địa điểm khác nhau để phù hợp với tất cả mọi người.)
+ Please include your name, address, a [daytime] telephone number and email address if you have one. (=Dịch: Vui lòng bao gồm tên, địa chỉ, số điện thoại ban ngày và địa chỉ email của bạn nếu bạn có.)
+
+
+decoration (n) /ˌdek.əˈreɪ.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+hành động trang trí một cái gì đó (với hy vọng làm cho nó hấp dẫn hơn)
+=the act of decorating something (in the hope of making it more attractive)
+Ví dụ:
+ The molding has a floral [decoration] carved into it. (=Dịch: Phào chỉ có trang trí hoa được khắc vào.)
+ Other methods of [decoration] include impressions made with the fingers, sticks, and other tools. (=Dịch: Các phương pháp trang trí khác bao gồm dấu ấn được tạo ra bằng ngón tay, que và các công cụ khác.)
+ Martine Camillieri, who co-directs the gallery, is also very talented with crafts and [decoration] (=Dịch: Martine Camillieri, người đồng đạo diễn phòng trưng bày, cũng rất tài năng với thủ công và trang trí.)
+
+
+deteriorate (v) /dɪˈtɪə.ri.ə.reɪt/ 
+ UK 
+ US
+Định nghĩa:
+trở nên tồi tệ hơn, xấu đi
+=to become worse in state
+Ví dụ:
+ She was taken into hospital last week when her condition suddenly [deteriorated]. (=Dịch: Cô ấy đã được đưa vào bệnh viện tuần trước khi tình trạng của cô đột ngột xấu đi.)
+ The political situation in the region has [deteriorated] rapidly. (=Dịch: Tình hình chính trị trong khu vực đã xấu đi nhanh chóng.)
+ If the economy continues to [deteriorate], it will affect the firm's future performance. (=Dịch: Nếu nền kinh tế tiếp tục xấu đi, nó sẽ ảnh hưởng đến hiệu suất tương lai của công ty.)
+
+
+discard (v) /dɪˈskɑːd/ 
+ UK 
+ US
+Định nghĩa:
+vứt bỏ
+=to throw away
+Ví dụ:
+ [Discarded] food containers and bottles littered the streets. (=Dịch: Thức ăn [hộp đựng] và chai lọ vứt bừa bãi trên đường phố.)
+ Earlier this year, the council proposed to hit people who [discard] gum on the city streets with £50 on-the-spot fines. (=Dịch: Đầu năm nay, hội đồng đã đề xuất phạt ngay tại chỗ 50 bảng đối với những người vứt kẹo cao su lên đường phố.)
+ The local Council is trying to clamp down on people who [discard] litter around towns and in the countryside (=Dịch: Hội đồng địa phương đang cố gắng siết chặt những người vứt rác quanh thị trấn và ở nông thôn.)
+
+
+drastically (adv) /ˈdræs.tɪ.kəl.i/ 
+ UK 
+ US
+Định nghĩa:
+một cách trầm trọng, mãnh liệt
+=very seriously
+Ví dụ:
+ Their budget has been [drastically] reduced. (=Dịch: Ngân sách của họ đã bị cắt giảm đáng kể.)
+ Stock prices are falling [drastically] and market volatility is rising. (=Dịch: Giá cổ phiếu đang giảm mạnh và sự biến động của thị trường đang tăng lên.)
+ Its net income, however, improved [drastically], from a loss of $11 million in 2002 to a net gain of $5.2 in 2003. (=Dịch: Tuy nhiên, thu nhập ròng của nó đã cải thiện đáng kể, từ khoản lỗ 11 triệu đô la vào năm 2002 thành khoản lãi ròng 5,2 triệu đô la vào năm 2003.)
+
+
+erase (v) /ɪˈreɪz/ 
+ UK 
+ US
+Định nghĩa:
+xoá bỏ
+=to remove or delete
+Ví dụ:
+ A subdirectory filled with precious data can be [erased] if you are not careful. (=Dịch: Một thư mục con chứa đầy dữ liệu quý giá có thể bị xóa nếu bạn không cẩn thận.)
+ All personal data is securely [erased] in accordance with our data protection policy. (=Dịch: Tất cả dữ liệu cá nhân được xóa một cách an toàn theo chính sách bảo vệ dữ liệu của chúng tôi.)
+ He is determined to [erase] the memory of a disappointing debut two years ago. (=Dịch: Anh ấy quyết tâm xóa bỏ ký ức về một màn ra mắt đáng thất vọng cách đây hai năm.)
+
+
+ethics (n) /ˈeθ.ɪks/ 
+ UK 
+ US
+Định nghĩa:
+đạo đức, luân thường đạo lý
+=morals or belief system
+Ví dụ:
+ The trial was approved by the four local [ethics] committees. (=Dịch: Phiên tòa đã được bốn ủy ban đạo đức địa phương phê duyệt.)
+ These questions are subjective and involve our personal and professional [ethics] and philosophies. (=Dịch: Những câu hỏi này mang tính chủ quan và liên quan đến đạo đức và triết lý cá nhân và nghề nghiệp của chúng tôi.)
+ Some of the new regulations currently in effect are aimed at raising the moral [ethics] of our people. (=Dịch: Một số quy định mới hiện đang có hiệu lực nhằm nâng cao đạo đức của người dân chúng ta.)
+
+
+explorer (n) /ɪkˈsplɔː.rər/ 
+ UK 
+ US
+Định nghĩa:
+nhà thám hiểm
+=a person who travels to unknown places
+Ví dụ:
+ French [explorers] traded with the Indians in many parts of North America. (=Dịch: Các nhà thám hiểm người Pháp đã giao thương với người Ấn Độ ở nhiều khu vực của Bắc Mỹ.)
+ Travelling further than any [explorers] had done before, they paid the price when the ship became trapped in ice (=Dịch: Đi xa hơn bất kỳ nhà thám hiểm nào trước đây, họ phải trả giá khi con tàu bị mắc kẹt trong băng.)
+ Magellan was a famous 16th-century [explorer]. (=Dịch: Magellan là một nhà thám hiểm nổi tiếng thế kỷ 16.)
+
+
+factual (adj) /ˈfæk.tʃu.əl/ 
+ UK 
+ US
+Định nghĩa:
+căn cứ theo sự thực
+=based on true information
+Ví dụ:
+ She gave a clear, [factual] account of the attack to the police. (=Dịch: Cô ấy đã cung cấp một bản tường thuật rõ ràng và thực tế về vụ tấn công cho cảnh sát.)
+ We hope our media can provide us with relevant, [factual] and balanced information. (=Dịch: Chúng tôi hy vọng truyền thông của chúng tôi có thể cung cấp cho chúng tôi thông tin liên quan, thực tế và cân bằng.)
+ The profiles would also have to be monitored for [factual] accuracy and selectivity of information.' (=Dịch: Các hồ sơ cũng sẽ phải được giám sát về độ chính xác thực tế và sự chọn lọc thông tin.)
+
+
+fixture (n) /ˈfɪks.tʃər/ 
+ UK 
+ US
+Định nghĩa:
+vật cố định, đồ đạc đặt ở chỗ cố định
+=a piece of equipment, like a bath, that is permanently fixed to a building
+Ví dụ:
+ All [fixtures] and fittings are included in the house price. (=Dịch: Tất cả các thiết bị và phụ kiện đều được bao gồm trong giá nhà.)
+ Most of the antique [fixtures] - including light fittings, window and door frames - went missing. (=Dịch: Hầu hết các thiết bị cổ - bao gồm đèn, khung cửa sổ và cửa ra vào - đã biến mất.)
+ The spa's assets include about $75,000 worth of furniture, [fixtures], and equipment. (=Dịch: Tài sản của spa bao gồm khoảng 75.000 đô la giá trị nội thất, thiết bị và trang thiết bị.)
+
+
+footwear (n) /ˈfʊt.weər/ 
+ UK 
+ US
+Định nghĩa:
+giày dép
+=something you wear on your feet, such as shoes or boots
+Ví dụ:
+ You'll need some fairly tough [footwear] to go hiking in the mountains. (=Dịch: Bạn sẽ cần một đôi giày khá bền để đi bộ đường dài trên núi.)
+ Last month sales of clothes and [footwear] fell by a further 17%. (=Dịch: Doanh số bán quần áo và giày dép tháng trước đã giảm thêm 17%.)
+ As far as developing your own brand of [footwear], it's also a much heavier investment. (=Dịch: Phát triển thương hiệu giày dép của riêng bạn cũng là một khoản đầu tư lớn hơn nhiều.)
+
+
+genre (n) /ˈʒɒn.rə/ 
+ UK 
+ US
+Định nghĩa:
+thể loại
+=type of art, literature, or film, e.g. romance
+Ví dụ:
+ What [genre] does the book fall into - comedy or tragedy? (=Dịch: Cuốn sách thuộc thể loại nào - hài kịch hay bi kịch?)
+ Today, there are many artists out there trying to combine the different [genres] of music in the world. (=Dịch: Ngày nay, có rất nhiều nghệ sĩ đang cố gắng kết hợp các thể loại âm nhạc khác nhau trên thế giới.)
+ Women bring to poetry or other [genres] of literature a whole new area of experience and vision. (=Dịch: Phụ nữ mang đến thơ ca hoặc các thể loại văn học khác một lĩnh vực kinh nghiệm và tầm nhìn hoàn toàn mới.)
+
+
+gymnasium (n) /dʒɪmˈneɪ.zi.əm/ 
+ UK 
+ US
+Định nghĩa:
+nhà thể dục
+=building with equipment you can use to exercise your body
+Ví dụ:
+ The dance classes were held in a high school [gymnasium] . (=Dịch: Các lớp học khiêu vũ được tổ chức trong phòng thể dục của một trường trung học.)
+ The school's [gymnasium] and science labs are in need of refurbishment. (=Dịch: Phòng thể dục và phòng thí nghiệm khoa học của trường đang cần được cải tạo.)
+ They are surrounded by landscaped gardens and a leisure centre with a [gymnasium], sauna, cafeteria and bar. (=Dịch: Họ được bao quanh bởi các khu vườn cảnh và một trung tâm giải trí với phòng thể dục, phòng xông hơi, quán cà phê và quầy bar.)
+
+
+healthful (adj) /ˈhelθ.fəl/ 
+ UK 
+ US
+Định nghĩa:
+lành mạnh, có lợi cho sức khoẻ
+=helping to keep well in body and mind
+Ví dụ:
+ A [healthful] diet includes plenty of green vegetables. (=Dịch: Một chế độ ăn uống lành mạnh bao gồm nhiều rau xanh.)
+ Foods like fish, avocados and nuts contain [healthful] fats that are good for a glowing complexion. (=Dịch: Thực phẩm như cá, bơ và hạt chứa chất béo lành mạnh tốt cho làn da rạng rỡ.)
+ Milk consumption remains on the rise thanks to a nationwide effort to promote its [healthful] benefits (=Dịch: Tiêu thụ sữa tiếp tục tăng nhờ vào nỗ lực toàn quốc để quảng bá lợi ích lành mạnh của nó.)
+
+
+hereby (adv) /ˌhɪəˈbaɪ/ 
+ UK 
+ US
+Định nghĩa:
+bằng cách này, nhờ đó
+=a formal way of saying 'as a result of this'
+Ví dụ:
+ All such warranties are [hereby] excluded (=Dịch: Mọi bảo hành như vậy đều bị loại trừ tại đây)
+ I [hereby] witness the signing of this document by the above named in my presence (=Dịch: Tôi xin chứng kiến việc ký kết tài liệu này bởi người đã nêu trên đây trước sự có mặt của tôi)
+ We [hereby] inform you that your computer was scanned under the IP 195.132. 116.228. (=Dịch: Chúng tôi xin thông báo rằng máy tính của bạn đã được quét dưới địa chỉ IP 195.132.116.228)
+
+
+hesitation (n) /ˌhez.ɪˈteɪ.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+sự lưỡng lự, sự do dự
+=the act of pausing uncertainly
+Ví dụ:
+ Any [hesitation] on the part of the government will be seen as weakness. (=Dịch: Bất kỳ sự do dự nào từ phía chính phủ sẽ bị coi là sự yếu kém.)
+ I have no [hesitation] in recommending Ms Shapur for the job. (=Dịch: Tôi không do dự khi giới thiệu cô Shapur cho công việc này.)
+ Not for a moment is there any [hesitation] or doubt, as these obstacles have been transcended. (=Dịch: Không một khoảnh khắc nào có sự do dự hay nghi ngờ, vì những trở ngại này đã được vượt qua.)
+
+
+homemade (adj) /ˌhəʊmˈmeɪd/ 
+ UK 
+ US
+Định nghĩa:
+không mua từ một cửa hàng; làm ở nhà
+=not bought from a store; made at home
+Ví dụ:
+ Farmers' markets are a traditional way of selling [homemade] products effectively. (=Dịch: Chợ nông sản là một cách truyền thống để bán các sản phẩm tự làm hiệu quả.)
+ A selection of [homemade] chutneys, pickles, cakes and pastries will be on offer. (=Dịch: Một tuyển chọn gồm các loại sốt, dưa muối, bánh ngọt và bánh nướng tự làm sẽ được bày bán.)
+ We always have a minimum of two vegetarian dishes on our starter and main-course choices, all of which are [homemade]. (=Dịch: Chúng tôi luôn có ít nhất hai món chay trong các lựa chọn món khai vị và món chính của mình, tất cả đều là tự làm.)
+
+
+hospitality (n) /ˌhɒs.pɪˈtæl.ə.ti/ 
+ UK 
+ US
+Định nghĩa:
+sự hiếu khách, thân thiện
+=welcoming, friendly behavior you show to visitors or guests
+Ví dụ:
+ The atmosphere and [hospitality] of the smaller office made a great impression on all of our customers. (=Dịch: Bầu không khí và lòng hiếu khách của văn phòng nhỏ hơn đã để lại ấn tượng tốt cho tất cả khách hàng của chúng tôi.)
+ They said we should stay another night, but I didn't want to take advantage of their [hospitality]. (=Dịch: Họ nói rằng chúng ta nên ở thêm một đêm, nhưng tôi không muốn lợi dụng lòng hiếu khách của họ.)
+ The generosity and [hospitality] to people of every nation was greatly appreciated. (=Dịch: Sự hào phóng và lòng hiếu khách đối với mọi người của mọi quốc gia đã được đánh giá cao.)
+
+
+incoming (adj) /ˈɪn.kʌm.ɪŋ/ 
+ UK 
+ US
+Định nghĩa:
+mới đến, sắp tới
+=just arriving
+Ví dụ:
+ [Incoming] flights are being delayed because of bad weather. (=Dịch: Các chuyến bay đang bị trì hoãn vì thời tiết xấu.)
+ What are the biggest problems faced by the [incoming] president? (=Dịch: Những vấn đề lớn nhất mà tổng thống mới gặp phải là gì?)
+ There are presently only 50 stations to process [incoming] visitors, and that may not be adequate to handle the traffic surge. (=Dịch: Hiện tại chỉ có 50 trạm để xử lý khách đến, và điều đó có thể không đủ để xử lý sự gia tăng lưu lượng.)
+
+
+induction (n) /ɪnˈdʌk.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+sự giới thiệu (vào một tổ chức)
+=the act of being introduced into
+Ví dụ:
+ Their [induction] into the church took place in June. (=Dịch: Lễ kết nạp họ vào nhà thờ diễn ra vào tháng Sáu.)
+ Her [induction] as councillor took place in the town hall. (=Dịch: Lễ nhậm chức của cô ấy làm ủy viên hội đồng diễn ra ở tòa thị chính.)
+ The [induction] of new students will take place in the main hall. (=Dịch: Lễ giới thiệu sinh viên mới sẽ diễn ra ở hội trường chính.)
+
+
+inefficient (adj) /ˌɪn.ɪˈfɪʃ.ənt/ 
+ UK 
+ US
+Định nghĩa:
+không hoạt động tốt hoặc nhanh chóng
+=not working well or quickly
+Ví dụ:
+ The system is inherently [inefficient]. (=Dịch: Hệ thống này vốn dĩ không hiệu quả.)
+ They continued to prop up [inefficient] state enterprises. (=Dịch: Họ tiếp tục hỗ trợ các doanh nghiệp nhà nước không hiệu quả.)
+ This method of data storage is an [inefficient] use of memory. (=Dịch: Phương pháp lưu trữ dữ liệu này là một cách sử dụng bộ nhớ không hiệu quả.)
+
+
+inspiration (n) /ˌɪn.spəˈreɪ.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+nguồn cảm hứng
+=the thing or person that encourages you to do something
+Ví dụ:
+ Both poets drew their [inspiration] from the countryside. (=Dịch: Cả hai nhà thơ đều lấy cảm hứng từ vùng nông thôn.)
+ Her work lacks [inspiration] (= it does not contain any exciting new ideas). (=Dịch: Công việc của cô ấy thiếu cảm hứng (= nó không chứa bất kỳ ý tưởng mới thú vị nào).)
+ Looking for [inspiration] for a new dessert? Try this recipe. (=Dịch: Bạn đang tìm kiếm cảm hứng cho một món tráng miệng mới? Hãy thử công thức này.)
+ intently (adv) /ɪnˈtent.li/ 
+ UK 
+ US
+Định nghĩa:
+chăm chú
+=concentrate closely
+Ví dụ:
+ She looked at him [intently]. (=Dịch: Cô ấy nhìn anh ta chăm chú.)
+ I listened [intently] to what she had to say. (=Dịch: Tôi đã lắng nghe cô ấy một cách chăm chú.)
+ You'll focus [intently] on work and make it your mission to cut through red tape. (=Dịch: Bạn sẽ tập trung chăm chú vào công việc và biến nó thành nhiệm vụ của mình để vượt qua các thủ tục rườm rà.)
+
+
+liter (n) /ˈliː.tər/ 
+ UK 
+ US
+Định nghĩa:
+lít (một đơn vị đo lường cho chất lỏng)
+=a unit of measurement for liquids
+Ví dụ:
+ One tablespoon of sugar per 1 [liter] of unsweetened soy milk may be added to promote bacterial fermentation. (=Dịch: Một muỗng canh đường cho mỗi 1 lít sữa đậu nành không đường có thể được thêm vào để thúc đẩy quá trình lên men của vi khuẩn.)
+ The resulting explosion caused millions of [liters] of radioactive water to flood the reactor building's basement, and the reactor's core was no longer usable. (=Dịch: Vụ nổ kết quả đã gây ra hàng triệu lít nước phóng xạ tràn vào tầng hầm của tòa nhà lò phản ứng, và lõi của lò phản ứng không còn sử dụng được nữa.)
+ The park recommends that hikers wear hiking boots and carry two [liters] of water per person. (=Dịch: Công viên khuyến nghị người đi bộ mang giày leo núi và mang theo hai lít nước mỗi người.)
+
+
+mower (n) /ˈməʊ.ər/ 
+ UK 
+ US
+Định nghĩa:
+máy dùng để cắt cỏ
+=machine used to cut grass
+Ví dụ:
+ You should clean your [mower] each time you use it. (=Dịch: Bạn nên làm sạch máy cắt cỏ mỗi lần bạn sử dụng nó.)
+ They used this nice lawn [mower] to mow people's lawns in the summer and earn a little spending money. (=Dịch: Họ đã sử dụng máy cắt cỏ đẹp này để cắt cỏ cho mọi người vào mùa hè và kiếm chút tiền tiêu vặt.)
+ Segway has introduced its first robot [mower], the Navimow, that uses GPS to stay on your lawn and keep it neatly trimmed. (=Dịch: Segway đã giới thiệu robot cắt cỏ đầu tiên của mình, Navimow, sử dụng GPS để ở trên bãi cỏ của bạn và giữ cho nó được cắt gọn gàng.)
+
+
+nutrition (n) /njuːˈtrɪʃ.ən/ 
+ UK 
+ US
+Định nghĩa:
+(y học) khoa dinh dưỡng
+=the study of food and health
+Ví dụ:
+ A [nutrition] degree develops your knowledge of the science of nutrients and their effects, as well as the social factors which influence nutrition. (=Dịch: Một bằng cấp về dinh dưỡng phát triển kiến thức của bạn về khoa học dinh dưỡng và tác động của chúng, cũng như các yếu tố xã hội ảnh hưởng đến dinh dưỡng.)
+ The [nutrition] major teaches you about science, psychology, the human body and how food and nutrition can promote health and well-being. (=Dịch: Chuyên ngành dinh dưỡng dạy bạn về khoa học, tâm lý học, cơ thể con người và cách thực phẩm và dinh dưỡng có thể thúc đẩy sức khỏe và phúc lợi.)
+ If you take a [nutrition] class, you'll become more aware of the health hazards of junk food. (=Dịch: Nếu bạn tham gia một lớp học dinh dưỡng, bạn sẽ trở nên nhận thức rõ hơn về những nguy cơ sức khỏe của thực phẩm rác.)
+
+
+recession (n) /rɪˈseʃ.ən/ 
+ UK 
+ US
+Định nghĩa:
+sự suy thoái
+=a less successful time in the economy
+Ví dụ:
+ A lot of companies have been adversely affected by the [recession]. (=Dịch: Nhiều công ty đã bị ảnh hưởng bất lợi bởi suy thoái kinh tế.)
+ For the second time in ten years, the government has driven the economy into deep and damaging [recession]. (=Dịch: Trong vòng mười năm, chính phủ đã đẩy nền kinh tế vào suy thoái sâu và gây hại lần thứ hai.)
+ Demand for new cars has fallen due to the [recession]. (=Dịch: Nhu cầu mua xe mới đã giảm do suy thoái kinh tế.)
+
+
+resemble (v) /rɪˈzem.bəl/ 
+ UK 
+ US
+Định nghĩa:
+trông giống như, tương tự như
+=to look like, similar to
+Ví dụ:
+ The overlapping slates of the roofs in the mountain village [resembled] fish scales. (=Dịch: Những lớp đá lợp chồng lên nhau trên mái nhà ở ngôi làng trên núi trông giống như vảy cá.)
+ His latest sculpture [resembles] an enormous seashell. (=Dịch: Tác phẩm điêu khắc mới nhất của anh ấy trông giống một vỏ sò khổng lồ.)
+ That actor really [resembles] my brother-in-law. (=Dịch: Diễn viên đó thực sự trông giống anh rể của tôi.)
+
+
+restatement (n) /ˌriːˈsteɪt.mənt/ 
+ UK 
+ US
+Định nghĩa:
+sự trình bày, sự nói lại
+=a statement that has been reworded
+Ví dụ:
+ Her recent speech was merely a [restatement] of her widely publicized views. (=Dịch: Bài phát biểu gần đây của cô ấy chỉ đơn thuần là một sự lặp lại những quan điểm đã được công khai rộng rãi của cô ấy.)
+ The essay conclusion is not supposed to be simple [restatement] of what has gone before. (=Dịch: Kết luận của bài tiểu luận không nên chỉ đơn giản là sự nhắc lại những gì đã nêu trước đó.)
+ The music finishes with a final sweeping [restatement] of the central theme. (=Dịch: Bản nhạc kết thúc với một sự lặp lại cuối cùng đầy xúc cảm của chủ đề trung tâm.)
+
+
+sedan (n) /sɪˈdæn/ 
+ UK 
+ US
+Định nghĩa:
+loại xe 4 cửa, có 4 chỗ ngồi
+=a type of car that has seats for four people
+Ví dụ:
+ It's a gray four-door [sedan] in the parking lot. (=Dịch: Đó là một chiếc sedan bốn cửa màu xám trong bãi đậu xe.)
+ They drove down to Buckingham Palace in an American [sedan], arrived at the gates and demanded to see ' their ' monarch. (=Dịch: Họ lái xe xuống Cung điện Buckingham trong một chiếc sedan Mỹ, đến cổng và yêu cầu gặp 'vị' quốc vương của họ.)
+ The second model will be a family [sedan] based on the same platform. (=Dịch: Mẫu thứ hai sẽ là một chiếc sedan gia đình dựa trên cùng một nền tảng.)
+
+
+sunscreen (n) /ˈsʌn.skriːn/ 
+ UK 
+ US
+Định nghĩa:
+kem chống nắng
+=a cream spread on the skin that protects your skin from the sun
+Ví dụ:
+ After four and a half years the group that had used [sunscreen] showed noticeably fewer signs of skin ageing. (=Dịch: Sau bốn năm rưỡi, nhóm đã sử dụng kem chống nắng cho thấy ít dấu hiệu lão hóa da hơn đáng kể.)
+ With a hot summer on the cards, [sunscreen] lotions will be on most of our shopping lists. (=Dịch: Với một mùa hè nóng bức sắp tới, kem chống nắng sẽ có trong danh sách mua sắm của hầu hết chúng ta.)
+ Patients with a history of skin cancer should be advised to use a broad-spectrum [sunscreen] or sunblock with a sun-protection factor of 15 or above. (=Dịch: Những bệnh nhân có tiền sử ung thư da nên được khuyên dùng kem chống nắng hoặc kem chặn nắng phổ rộng với chỉ số chống nắng từ 15 trở lên.)
+
+
+timeline (n) /ˈtaɪmˌlaɪn/ 
+ UK 
+ US
+Định nghĩa:
+một chuỗi các sự kiện theo dòng thời gian
+=a series of related events arranged in the order they happen, and displayed in a row
+Ví dụ:
+ Despite the short [timeline], supporters gathered enough signatures to get the measure on the ballot. (=Dịch: Mặc dù thời gian ngắn, những người ủng hộ đã thu thập đủ chữ ký để đưa biện pháp vào lá phiếu.)
+ The plan includes a [timeline] mapping when each step is to be accomplished. (=Dịch: Kế hoạch bao gồm một lộ trình cho biết khi nào mỗi bước sẽ được hoàn thành.)
+ There is no [timeline] in place for the state to offer tax breaks to the automaker to keep jobs in Ohio. (=Dịch: Chưa có lộ trình nào được thiết lập để tiểu bang cung cấp các ưu đãi thuế cho nhà sản xuất ô tô giữ công việc ở Ohio.)
+
+
+unauthorized (adj) /ʌnˈɔː.θə.raɪzd/ 
+ UK 
+ US
+Định nghĩa:
+không có thẩm quyền, không được cho phép
+=without someone's official permission to do something or be in a particular place
+Ví dụ:
+ We use this identifier to examine the software for suspicious account activity, such as [unauthorized] access. (=Dịch: Chúng tôi sử dụng mã định danh này để kiểm tra phần mềm về hoạt động tài khoản đáng ngờ, chẳng hạn như truy cập trái phép.)
+ The policy is changing to prohibit ads by [unauthorized] ticket resellers. (=Dịch: Chính sách đang thay đổi để cấm quảng cáo bởi những người bán vé không được phép.)
+ Any [unauthorized] personnel will be subject to arrest. (=Dịch: Bất kỳ nhân viên trái phép nào cũng sẽ bị bắt giữ.)
+
+
+unplug (v) /ʌnˈplʌɡ/ 
+ UK 
+ US
+Định nghĩa:
+rút dây điện ra khỏi ổ cắm của nó
+=to pull out an electrical cord from its socket
+Ví dụ:
+ If I'm very busy, I [unplug] the phone. (=Dịch: Nếu tôi rất bận, tôi sẽ rút phích cắm điện thoại.)
+ [Unplug] the TV before you go on holiday. (=Dịch: Rút phích cắm TV trước khi bạn đi nghỉ.)
+ Did you [unplug] the iron? (=Dịch: Bạn đã rút phích cắm bàn ủi chưa?)
+
+
+unreliable (adj) /ˌʌnrɪˈlaɪəbl/ 
+ UK 
+ US
+Định nghĩa:
+Không đáng tin cậy
+=not trustworthy
+Ví dụ:
+ Several [unreliable] dealers have been struck off our list of authorized suppliers. (=Dịch: Nhiều nhà cung cấp không đáng tin đã bị loại khỏi danh sách nhà cung cấp được ủy quyền của chúng tôi.)
+ He's so [unreliable]! she said crossly. (=Dịch: Anh ấy thật là không đáng tin! cô ấy nói một cách giận dữ.)
+ Managers had complained that the workers were lazy and [unreliable]. (=Dịch: Các quản lý đã phàn nàn rằng các công nhân lười biếng và không đáng tin cậy.)
+
+
+video conference (n) /ˈvɪd.i.əʊ ˈkɒn.fər.əns/ 
+ UK 
+ US
+Định nghĩa:
+cuộc họp được thực hiện qua internet
+=meeting carried out over the internet
+Ví dụ:
+ Picture a private-school classroom where students have a two-way [video conference] with a major museum. (=Dịch: Hãy tưởng tượng một lớp học tại trường tư nơi học sinh có cuộc họp video hai chiều với một bảo tàng lớn.)
+ The district certifies teachers, holds meetings and lets secondary school students take courses by [video conference]. (=Dịch: Khu học chánh chứng nhận giáo viên, tổ chức các cuộc họp và cho phép học sinh trung học tham gia các khóa học qua phòng họp video.)
+ Schools across Greater Manchester conducted a [video conference] in which they discussed plans to develop their own yearly-progress definitions. (=Dịch: Các trường học trên khắp vùng Greater Manchester đã tổ chức một cuộc họp video trong đó họ thảo luận về kế hoạch phát triển các định nghĩa tiến bộ hàng năm của riêng mình.)
+
+
+violate (v) /ˈvaɪ.ə.leɪt/ 
+ UK 
+ US
+Định nghĩa:
+vi phạm quy tắc hoặc luật pháp
+=to break the rule or law
+Ví dụ:
+ They were charged with [violating] federal law. (=Dịch: Họ bị buộc tội vi phạm luật liên bang.)
+ It seems that the troops deliberately [violated] the ceasefire agreement. (=Dịch: Có vẻ như các binh sĩ đã cố tình vi phạm thỏa thuận ngừng bắn.)
+ The doctor has been accused of [violating] professional ethics. (=Dịch: Bác sĩ đã bị buộc tội vi phạm đạo đức nghề nghiệp.)
+
+
+wellness (n) /ˈwel.nəs/ 
+ UK 
+ US
+Định nghĩa:
+Trạng thái khỏe mạnh; không bị bệnh
+=State of being healthy; not ill
+Ví dụ:
+ Employers who emphasize worker [wellness] get a healthy return on their investment. (=Dịch: Những nhà tuyển dụng nhấn mạnh sức khỏe của nhân viên sẽ nhận được lợi nhuận tốt từ khoản đầu tư của họ.)
+ Yoga is said to promote the [wellness] of the mind and body. (=Dịch: Yoga được cho là thúc đẩy sức khỏe của tâm trí và cơ thể.)
+ These therapies are widely available in America for [wellness] and health maintenance as well as disease management. (=Dịch: Những liệu pháp này được phổ biến rộng rãi ở Mỹ để duy trì sức khỏe và sự khỏe mạnh cũng như quản lý bệnh tật.)
+
+
+workbook (n) /ˈwɜːk.bʊk/ 
+ UK 
+ US
+Định nghĩa:
+sách bài tập
+=a file containing information about a particular subject, and relatated problems to be solved by the student
+Ví dụ:
+ There's a [workbook] to accompany the textbook. (=Dịch: Có một cuốn sách bài tập đi kèm với sách giáo khoa.)
+ This book was recognized and prescribed by the education department that served as a [workbook] in all educational institution for quite a long time. (=Dịch: Cuốn sách này đã được công nhận và đề xuất bởi bộ giáo dục để làm sách bài tập trong tất cả các cơ sở giáo dục trong một thời gian khá lâu.)
+ Biology class was just a [workbook], which was an enormous disappointment for me. (=Dịch: Lớp sinh học chỉ là một cuốn sách bài tập, điều này là một sự thất vọng lớn đối với tôi.)

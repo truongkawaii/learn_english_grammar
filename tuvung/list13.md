@@ -1,0 +1,656 @@
+aboard (adv, preposition) /əˈbɔrd/ 
+ UK 
+ US
+Định nghĩa:
+trên hoặc trong một phương tiện di chuyển, ví dụ: Trên thuyền
+=on or in a moving vehicle, e.g. aboard the boat
+Ví dụ:
+ The flight attendant welcomed us [aboard] (=Dịch: Tiếp viên hàng không chào đón chúng tôi lên máy bay)
+ Nobody is allowed [aboard] the plane without a security check (=Dịch: Không ai được phép lên máy bay mà không qua kiểm tra an ninh)
+ The bus drove off just as she was climbing [aboard] (=Dịch: Chiếc xe buýt rời đi ngay khi cô ấy đang leo lên)
+
+
+acceptance (n) /əkˈsɛptəns/ 
+ UK 
+ US
+Định nghĩa:
+sự chấp nhận
+=state of being okay with something or someone
+Ví dụ:
+ The party marked his [acceptance] into the community (=Dịch: Buổi tiệc đánh dấu sự chấp nhận anh ấy vào cộng đồng)
+ We will confirm [acceptance] of your order by email (=Dịch: Chúng tôi sẽ xác nhận việc chấp nhận đơn hàng của bạn qua email)
+ These devices are gaining [acceptance] within the marketplace (=Dịch: Những thiết bị này đang dần được chấp nhận trên thị trường)
+
+
+advancement (n) /ədˈvɑːns.mənt/ 
+ UK 
+ US
+Định nghĩa:
+sự tiến bộ, sự thăng tiến
+=gradual move forward
+Ví dụ:
+ All she was interested in was the [advancement] of her own career (=Dịch: Tất cả những gì cô ấy quan tâm là sự thăng tiến trong sự nghiệp của chính mình)
+ In order to keep good employees, you need to provide them with possibilities for growth and [advancement] (=Dịch: Để giữ chân nhân viên tốt, bạn cần cung cấp cho họ những cơ hội để phát triển và thăng tiến)
+ Taking time off work to have children should not be a barrier to career [advancement]. (=Dịch: Việc nghỉ làm để sinh con không nên là rào cản cho sự thăng tiến trong sự nghiệp)
+
+
+advertiser (n) /ˈæd.və.taɪ.zər/ 
+ UK 
+ US
+Định nghĩa:
+nhà quảng cáo
+=someone who is selling something through media
+Ví dụ:
+ While claiming to promote positive images of women, [advertisers] are in fact doing the very opposite (=Dịch: Trong khi tuyên bố thúc đẩy hình ảnh tích cực của phụ nữ, các nhà quảng cáo thực chất đang làm điều hoàn toàn ngược lại)
+ Every time a user clicks on the [advertiser]'s link, the search engine earns a fee (=Dịch: Mỗi lần người dùng nhấp vào liên kết của nhà quảng cáo, công cụ tìm kiếm sẽ thu được một khoản phí)
+ The ratings determine how much -[advertisers] pay for commercials. (=Dịch: Các xếp hạng xác định số tiền các nhà quảng cáo phải trả cho quảng cáo truyền hình.)
+
+
+allocate (v) /ˈæl.ə.keɪt/ 
+ UK 
+ US
+Định nghĩa:
+Phân công, phân phát
+=to assign (usually people or money) to something
+Ví dụ:
+ As project leader, you will have to [allocate] people jobs/[allocate] jobs to people. (=Dịch: Là trưởng dự án, bạn sẽ phải phân bổ công việc cho mọi người/phân bổ người vào công việc.)
+ It is not the job of the investigating committee to [allocate] blame for the disaster/to allocate blame to individuals. (=Dịch: Không phải là trách nhiệm của ủy ban điều tra để đổ lỗi cho thảm họa/đổ lỗi cho cá nhân.)
+ The local council has decided not to [allocate] funds for the project. (=Dịch: Hội đồng địa phương đã quyết định không phân bổ quỹ cho dự án.)
+
+
+alternatively (adv) /ɔːlˈtɜː.nə.tɪv.li/ 
+ UK 
+ US
+Định nghĩa:
+một cách khác, cách thay thế
+=used to suggest another possibility
+Ví dụ:
+ It would be a six-month wait for the operation but, [alternatively], you could pay for private treatment. (=Dịch: Sẽ phải chờ sáu tháng để phẫu thuật, nhưng cách khác, bạn có thể trả tiền cho việc điều trị riêng.)
+ Your working day may not feel like such a slog if you don't hate your job, or [alternatively] you may find two enjoyable part-time gigs will fit the bill. (=Dịch: Ngày làm việc của bạn có thể không cảm thấy như một công việc nặng nhọc nếu bạn không ghét công việc của mình, hoặc [cách khác] bạn có thể thấy hai công việc bán thời gian thú vị sẽ phù hợp.)
+ I'll try to get a recording of it, and [alternatively] it is repeated in a podcast for a week, so I'll post up the link of that tomorrow.' (=Dịch: Tôi sẽ cố gắng ghi âm lại, và thay vào đó nó được phát lại trong một podcast trong một tuần, vì vậy tôi sẽ đăng liên kết của nó vào ngày mai.)
+
+
+ambitious (adj) /æmˈbɪʃ.əs/ 
+ UK 
+ US
+Định nghĩa:
+có nhiều tham vọng
+=hard-working, wanting to achieve much
+Ví dụ:
+ She has some [ambitious] plans for her business. (=Dịch: Cô ấy có một số kế hoạch đầy tham vọng cho doanh nghiệp của mình.)
+ The government is persisting with its [ambitious] public works programme. (=Dịch: Chính phủ đang kiên trì với chương trình công trình công cộng đầy tham vọng của mình.)
+ It was an [ambitious] project to restore the public parks. (=Dịch: Đó là một dự án đầy tham vọng để khôi phục các công viên công cộng.)
+
+
+amuse (v) /əˈmjuːz/ 
+ UK 
+ US
+Định nghĩa:
+giải trí
+=to entertain
+Ví dụ:
+ Could you think of a few games to [amuse] the children on the journey? (=Dịch: Bạn có thể nghĩ ra vài trò chơi để làm vui cho bọn trẻ trong chuyến đi không?)
+ I've brought an article from yesterday's paper that I thought might [amuse] you. (=Dịch: Tôi đã mang một bài báo từ tờ báo hôm qua mà tôi nghĩ có thể làm bạn vui.)
+ There will also be a circus entertainer on hand to [amuse] the youngsters (=Dịch: Cũng sẽ có một người biểu diễn xiếc để làm vui cho các em nhỏ.)
+
+
+appendix (n) /əˈpen.dɪks/ 
+ UK 
+ US
+Định nghĩa:
+phụ lục
+=an extra bit of information at the end of a book or document
+Ví dụ:
+ There's an [appendix] at the end of the book with a list of dates. (=Dịch: Có một phụ lục ở cuối cuốn sách với một danh sách các ngày tháng.)
+ The [appendix] lists all the Olympic champions. (=Dịch: Phụ lục liệt kê tất cả các nhà vô địch Olympic.)
+ For a list of committee members' names and contact details, see [appendix] B. (=Dịch: Để xem danh sách tên và chi tiết liên lạc của các thành viên ủy ban, xin xem phụ lục B.)
+
+
+attorney (n) /əˈtɜː.ni/ 
+ UK 
+ US
+Định nghĩa:
+luật sư
+=lawyer
+Ví dụ:
+ They paid a high-powered [attorney] to plead their case. (=Dịch: Họ đã thuê một luật sư có uy tín để bào chữa cho trường hợp của họ.)
+ She was asked to take the witness stand and was then cross-examined by the state [attorney]. (=Dịch: Cô ấy được yêu cầu lên bục nhân chứng và sau đó bị thẩm vấn bởi công tố viên bang.)
+ [Attorneys] for both sides agreed to postpone the hearing. (=Dịch: Luật sư của cả hai bên đã đồng ý hoãn phiên điều trần.)
+
+
+authorization (n) /ˌɔː.θər.aɪˈzeɪ.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+sự cho phép, sự ủy quyền để làm điều gì đó
+=the permission given to do something
+Ví dụ:
+ Medical records cannot be disclosed without [authorization] from the patient. (=Dịch: Hồ sơ y tế không thể được tiết lộ mà không có sự cho phép từ bệnh nhân.)
+ The [authorization] to sell the shares arrived too late. (=Dịch: Sự cho phép để bán cổ phần đến quá muộn.)
+ Human Resources must obtain specific [authorization] from the Executive Director before any candidate can be rehired or transferred. (=Dịch: Phòng Nhân sự phải có được sự cho phép cụ thể từ Giám đốc Điều hành trước khi bất kỳ ứng viên nào có thể được tuyển lại hoặc chuyển công tác.)
+
+
+booth (n) /buːθ/ 
+ UK 
+ US
+Định nghĩa:
+gian hàng, buồng kín
+=an enclosed space like a cubicle, stall or stand
+Ví dụ:
+ There was a line of people waiting for the phone [booth]. (=Dịch: Có một hàng người đang chờ bốt điện thoại.)
+ If we get separated, let's meet at the information [booth]. (=Dịch: Nếu chúng ta bị tách ra, hãy gặp nhau ở quầy thông tin.)
+ The members had set up [booths] where they sold handicrafts, fashion accessories and food from their respective countries. (=Dịch: Các thành viên đã dựng các gian hàng nơi họ bán đồ thủ công mỹ nghệ, phụ kiện thời trang và thực phẩm từ các nước của họ.)
+
+
+campus (n) /ˈkæm.pəs/ 
+ UK 
+ US
+Định nghĩa:
+khuôn viên trường đại học
+=place where university buildings are
+Ví dụ:
+ There's accommodation for about five hundred students on [campus]. (=Dịch: Có chỗ ở cho khoảng năm trăm sinh viên tại khuôn viên trường.)
+ Surrounded by lovely trees, the Dartmouth [campus] is big and beautiful. (=Dịch: Được bao quanh bởi những cây đẹp, khuôn viên trường Dartmouth rộng lớn và đẹp đẽ.)
+ Freshmen at many universities are not allowed to live off [campus] (=Dịch: Sinh viên năm nhất ở nhiều trường đại học không được phép sống ngoài khuôn viên trường.)
+
+
+candy (n) /ˈkæn.di/ 
+ UK 
+ US
+Định nghĩa:
+món kẹo
+=a very sweet food, made from sugar and other things, that is good to eat
+Ví dụ:
+ Here's some [candy] for you to put in the kids' goody bags. (=Dịch: Đây là một ít kẹo để bạn cho vào túi quà của bọn trẻ.)
+ They left the wrappers from their [candy] all over my car. (=Dịch: Họ đã để lại giấy gói kẹo khắp xe của tôi.)
+ We dove into the box of chocolate [candy] as if we were starving. (=Dịch: Chúng tôi lao vào hộp kẹo sô cô la như thể đang chết đói.)
+
+
+certify (v) /ˈsɜː.tɪ.faɪ/ 
+ UK 
+ US
+Định nghĩa:
+chứng nhận, chứng thực
+=to state something is real or correct
+Ví dụ:
+ The driver was [certified] (as) dead on arrival at the hospital. (=Dịch: Tài xế được xác nhận đã chết khi đến bệnh viện.)
+ All of our surgeons have been [certified] by the American Board of Plastic Surgery. (=Dịch: Tất cả các bác sĩ phẫu thuật của chúng tôi đã được chứng nhận bởi Hội đồng Phẫu thuật Thẩm mỹ Hoa Kỳ.)
+ The rules require sponsors to identify themselves and [certify] that they have no financial interest in the projects. (=Dịch: Các quy tắc yêu cầu các nhà tài trợ tự xác định và chứng nhận rằng họ không có lợi ích tài chính trong các dự án.)
+
+
+checkout (n) /ˈtʃek.aʊt/ 
+ UK 
+ US
+Định nghĩa:
+sự trả phòng khách sạn
+=the latest time that you must vacate a hotel room
+Ví dụ:
+ Speak to Reception if you would like to request a later [checkout]. (=Dịch: Hãy nói chuyện với Lễ tân nếu bạn muốn yêu cầu trả phòng muộn hơn.)
+ Any extra charges will be settled with guests on [checkout] (=Dịch: Mọi khoản phí phát sinh sẽ được thanh toán với khách hàng khi trả phòng.)
+ The hotel staff had no problem at all extending our [checkout] time until our arranged pickup. (=Dịch: Nhân viên khách sạn không gặp vấn đề gì khi gia hạn thời gian trả phòng của chúng tôi cho đến khi chúng tôi được đón.)
+
+
+chemistry (n) /ˈkem.ɪ.stri/ 
+ UK 
+ US
+Định nghĩa:
+hóa học
+=the study of chemicals
+Ví dụ:
+ Marie Curie was the woman behind enormous changes in the science of [chemistry]. (=Dịch: Marie Curie là người phụ nữ đứng sau những thay đổi to lớn trong khoa học hóa học.)
+ As students of [chemistry] know, even small rearrangements of a molecule's structure can produce a compound that acts differently. (=Dịch: Như các sinh viên hóa học đã biết, ngay cả những sự sắp xếp lại nhỏ trong cấu trúc của phân tử cũng có thể tạo ra một hợp chất có tác dụng khác.)
+ He studied [chemistry] in preference to physics at university. (=Dịch: Anh ấy đã học hóa học thay vì vật lý tại trường đại học.)
+
+
+circulation (n) /ˌsɜː.kjəˈleɪ.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+sự lưu hành (báo chí,...)
+=the act of distributing in a wide area, e.g. newspaper
+Ví dụ:
+ It has a daily [circulation] of 400,000, making it the second-largest newspaper in the country. (=Dịch: Nó có lượng phát hành hàng ngày là 400.000, làm cho nó trở thành tờ báo lớn thứ hai trong nước.)
+ Despite the [circulation] of the memo, the company's stock price in recent days has been soaring. (=Dịch: Mặc dù bản ghi nhớ được phát hành, giá cổ phiếu của công ty trong những ngày gần đây đã tăng vọt.)
+ Add her name to the [circulation] list for this report (=Dịch: Thêm tên cô ấy vào danh sách gửi báo cáo này)
+
+
+clarify (v) /ˈklær.ɪ.faɪ/ 
+ UK 
+ US
+Định nghĩa:
+để giải thích hoặc làm rõ
+=to explain or make clear
+Ví dụ:
+ The position of all shareholders will be [clarified] next month when we finalize our proposals. (=Dịch: Vị trí của tất cả cổ đông sẽ được làm rõ vào tháng tới khi chúng tôi hoàn thiện các đề xuất của mình.)
+ Talking it through with you has helped me to [clarify] my own thinking about the problem. (=Dịch: Nói chuyện với bạn đã giúp tôi làm sáng tỏ suy nghĩ của mình về vấn đề này.)
+ The report managed to [clarify] the government's position (=Dịch: Báo cáo đã làm rõ lập trường của chính phủ.)
+
+
+classmate (n) /ˈklɑːs.meɪt/ 
+ UK 
+ US
+Định nghĩa:
+bạn học cùng lớp
+=Someone studying in your class with you
+Ví dụ:
+ Trish is taller than most of her [classmates]. (=Dịch: Trish cao hơn hầu hết các bạn cùng lớp của cô ấy.)
+ As a college student, he was always willing to help fellow [classmates] get through their exams. (=Dịch: Khi còn là sinh viên đại học, anh ấy luôn sẵn sàng giúp đỡ các bạn cùng lớp vượt qua kỳ thi của họ.)
+ Notably, parental monitoring and [classmate] support reduced runaway risk and friend relationship increased it. (=Dịch: Đáng chú ý, sự giám sát của cha mẹ và sự hỗ trợ từ bạn cùng lớp giảm nguy cơ bỏ nhà đi và mối quan hệ bạn bè làm tăng nguy cơ đó.)
+
+
+compile (v) /kəmˈpaɪl/ 
+ UK 
+ US
+Định nghĩa:
+biên soạn, thu thập dữ liệu
+=to collect or gather data
+Ví dụ:
+ Credit bureaus collect and [compile] information about consumer creditworthiness from banks, other creditors, and from public records. (=Dịch: Các văn phòng tín dụng thu thập và tổng hợp thông tin về khả năng tín dụng của người tiêu dùng từ các ngân hàng, các chủ nợ khác và từ các hồ sơ công khai.)
+ We're [compiling] some facts and figures for a documentary on the subject. (=Dịch: Chúng tôi đang tổng hợp một số thông tin và số liệu cho một bộ phim tài liệu về chủ đề này.)
+ The local authority must [compile] a list of the names and addresses of taxpayers (=Dịch: Chính quyền địa phương phải lập danh sách tên và địa chỉ của những người nộp thuế.)
+
+
+concierge (n) /ˌkɒn.siˈeəʒ/ 
+ UK 
+ US
+Định nghĩa:
+nhân viên hỗ trợ ở tiền sảnh khách sạn
+=the person in a hotel whose job it is to arrange things for the guests
+Ví dụ:
+ Other hotel staff who expect a tip include a [concierge] who books tickets for a show and a doorman who hails a taxi. (=Dịch: Những nhân viên khách sạn khác mong nhận tiền tip bao gồm nhân viên hướng dẫn đặt vé cho một buổi diễn và người gác cổng gọi taxi.)
+ Our company offers [concierge] services for both individual and corporate customers. (=Dịch: Công ty chúng tôi cung cấp dịch vụ hướng dẫn viên cho cả khách hàng cá nhân và doanh nghiệp.)
+ Our [concierges] are experts on the area's restaurants and can recommend the perfect place to fit your tastes. (=Dịch: Nhân viên hướng dẫn của chúng tôi là chuyên gia về các nhà hàng trong khu vực và có thể đề xuất địa điểm hoàn hảo phù hợp với khẩu vị của bạn.)
+
+
+consent (v) /kənˈsent/ 
+ UK 
+ US
+Định nghĩa:
+bằng lòng, tán thành, cho phép
+=to give permission
+Ví dụ:
+ Pressure is being put on shareholders to [consent] to the takeover. (=Dịch: Áp lực đang được gây lên các cổ đông để đồng ý với việc tiếp quản.)
+ It would be quite unreal to infer that the bank [consented] to the withdrawal by a card holder whose account had been closed. (=Dịch: Sẽ là không thực tế nếu suy luận rằng ngân hàng [đã đồng ý] cho chủ thẻ có tài khoản đã bị đóng rút tiền.)
+ All heads of households [consented] to the interview. (=Dịch: Tất cả các chủ hộ đã đồng ý với cuộc phỏng vấn.)
+
+
+consistently (adv) /kənˈsɪs.tənt.li/ 
+ UK 
+ US
+Định nghĩa:
+một cách nhất quán
+=doing something the same way every time
+Ví dụ:
+ The vehicle [consistently] outperforms some of the best competitors (=Dịch: Chiếc xe luôn vượt trội hơn một số đối thủ tốt nhất)
+ The president has [consistently] denied the rumours. (=Dịch: Tổng thống luôn phủ nhận những tin đồn.)
+ His movies are [consistently] thought-provoking. (=Dịch: Những bộ phim của anh ấy luôn khiêu gợi suy nghĩ.)
+
+
+cookie (n) /ˈkʊk.i/ 
+ UK 
+ US
+Định nghĩa:
+bánh quy
+=a small, flat, round, dry, sweet cake-like snack
+Ví dụ:
+ If you eat three good meals a day, you shouldn't need to snack on [cookies] and crisps. (=Dịch: Nếu bạn ăn ba bữa ăn ngon mỗi ngày, bạn không nên cần ăn vặt với bánh quy và khoai tây chiên.)
+ Enjoy the famous bake sale with homemade cakes, pies and [cookies]. (=Dịch: Thưởng thức buổi bán bánh nổi tiếng với những chiếc bánh, bánh nướng và bánh quy tự làm.)
+ The preparations will include varieties of rice items, sweets, fried items, [cookies], cakes and juices. (=Dịch: Sự chuẩn bị sẽ bao gồm các loại món ăn từ gạo, đồ ngọt, món chiên, bánh quy, bánh ngọt và nước trái cây.)
+
+
+correction (n) /kəˈrek.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+sự sửa chữa, sự hiệu chỉnh
+=the act of making something right
+Ví dụ:
+ Make sure you do all those spelling [corrections] carefully before you send off the letter. (=Dịch: Hãy chắc chắn rằng bạn thực hiện tất cả các sửa lỗi chính tả cẩn thận trước khi gửi lá thư.)
+ No [corrections] to these figures will be allowed once the form has been submitted. (=Dịch: Không được phép sửa các số liệu này sau khi biểu mẫu đã được nộp.)
+ She was disappointed to see her essay returned with a huge number of [corrections] in red ink. (=Dịch: Cô ấy thất vọng khi thấy bài luận của mình được trả lại với một số lượng lớn các chỉnh sửa bằng mực đỏ.)
+
+
+customize (v) /ˈkʌs.tə.maɪz/ 
+ UK 
+ US
+Định nghĩa:
+tuỳ chỉnh
+=make or change something to suit the customer's particular needs
+Ví dụ:
+ Employees can [customize] the software to suit their needs. (=Dịch: Nhân viên có thể tùy chỉnh phần mềm để phù hợp với nhu cầu của họ.)
+ The basic design of the vehicle has been [customized] to the client's requirements. (=Dịch: Thiết kế cơ bản của xe đã được tùy chỉnh theo yêu cầu của khách hàng.)
+ Modifying or [customizing] a vehicle has also become a trend among car enthusiasts nowadays. (=Dịch: Việc chỉnh sửa hoặc tùy chỉnh xe cũng đã trở thành một xu hướng trong cộng đồng đam mê xe hiện nay.)
+
+
+deck (n) /dek/ 
+ UK 
+ US
+Định nghĩa:
+sân thượng
+=like a patio or terrace
+Ví dụ:
+ In summer, we always eat out on the [deck] – except when it rains. (=Dịch: Vào mùa hè, chúng ta luôn ăn ngoài sân – trừ khi trời mưa.)
+ The party had to be moved from the [deck] to inside the house. (=Dịch: Bữa tiệc phải được chuyển từ sân vào trong nhà.)
+ A large wooden [deck] links house and beach, allowing the residents to do much of their living outdoors. (=Dịch: Một sàn gỗ lớn nối liền nhà và bãi biển, cho phép cư dân sống ngoài trời nhiều hơn.)
+
+
+dedication (n) /ˌded.ɪˈkeɪ.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+sự cống hiến, sự tận tâm
+=the act of being faithful to someone or something
+Ví dụ:
+ The country's greatest resource is the [dedication] of its workers. (=Dịch: Tài nguyên lớn nhất của đất nước là sự cống hiến của những người lao động.)
+ The preparation and training involved for the trip required tremendous effort and [dedication] on their part, all in aid of a most worthy cause. (=Dịch: Sự chuẩn bị và huấn luyện cho chuyến đi đòi hỏi nỗ lực rất lớn và sự cống hiến từ họ, tất cả vì một mục đích rất đáng giá.)
+ Their [dedication] to quality has paid off - with a devoted band of customers throughout West Yorkshire. (=Dịch: Sự cống hiến của họ cho chất lượng đã được đền đáp - với một nhóm khách hàng trung thành khắp West Yorkshire.)
+
+
+descriptive (adj) /dɪˈskrɪp.tɪv/ 
+ UK 
+ US
+Định nghĩa:
+đùng để diễn tả, mô tả
+=something that tells you more about it
+Ví dụ:
+ One of the strengths of this book lies in the [descriptive] passages. (=Dịch: Một trong những thế mạnh của cuốn sách này nằm ở các đoạn mô tả.)
+ The woodland is seen through poetry, [descriptive] text and a mosaic of pictures. (=Dịch: Khu rừng được nhìn thấy qua thơ ca, văn bản mô tả và một bức tranh khảm của các hình ảnh.)
+ His [descriptive] letters painted a picture of life in Tasmania for readers back in England. (=Dịch: Những bức thư mô tả của anh ấy đã vẽ nên một bức tranh về cuộc sống ở Tasmania cho những độc giả ở Anh.)
+ detach (v) /dɪˈtætʃ/ 
+ UK 
+ US
+Định nghĩa:
+tháo ra, tách ra
+=to remove from something
+Ví dụ:
+ [Detach] the lower part of the form from this letter and return it to the above address. (=Dịch: Tháo phần dưới của biểu mẫu ra khỏi lá thư này và gửi lại địa chỉ ở trên.)
+ The offending fire alarm was now completely [detached] from the wall. (=Dịch: Chuông báo cháy gây phiền đã được tháo hoàn toàn khỏi tường.)
+ Do not [detach] them from the parent plant at this stage. (=Dịch: Đừng [tách] chúng ra khỏi cây mẹ ở giai đoạn này.)
+
+
+diagnose (v) /ˌdaɪ.əɡˈnoʊz/ 
+ UK 
+ US
+Định nghĩa:
+chẩn đoán, phát hiện lỗi sai
+=to figure out what is wrong
+Ví dụ:
+ It was not easy to [diagnose] what was wrong with the business. (=Dịch: Không dễ dàng để chẩn đoán vấn đề của doanh nghiệp là gì.)
+ His condition was [diagnosed] as some type of blood disorder. (=Dịch: Tình trạng của anh ấy được chẩn đoán là một loại rối loạn máu.)
+ Symptoms can be treated best if the disease is [diagnosed] early. (=Dịch: Các triệu chứng có thể được điều trị tốt nhất nếu bệnh được chẩn đoán sớm.)
+
+
+documentation (n) /ˌdɒk.jə.menˈteɪ.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+sự chứng minh bằng tài liệu
+=the act of showing proof in writing
+Ví dụ:
+ Many lenders are now requiring borrowers to provide [documentation] of their income. (=Dịch: Nhiều người cho vay hiện đang yêu cầu người vay cung cấp tài liệu chứng minh thu nhập của họ.)
+ Amid rising default anxiety, loans are getting harder to obtain, with tighter [documentation] requirements. (=Dịch: Giữa lo lắng gia tăng về việc vỡ nợ, các khoản vay trở nên khó tiếp cận hơn, với các yêu cầu tài liệu chặt chẽ hơn.)
+ Historical [documentation] can be classified as either ancient documents or official public documents. (=Dịch: Tài liệu lịch sử có thể được phân loại là tài liệu cổ hoặc tài liệu công khai chính thức.)
+
+
+entrepreneur (n) /ˌɒn.trə.prəˈnɜːr/ 
+ UK 
+ US
+Định nghĩa:
+doanh nhân
+=a business person who starts companies
+Ví dụ:
+ He's an [entrepreneur] who made his money in computer software. (=Dịch: Anh ấy là một doanh nhân đã kiếm tiền từ phần mềm máy tính.)
+ The [entrepreneur] sees a business opportunity where others notice only a rubbish site. (=Dịch: Doanh nhân nhìn thấy cơ hội kinh doanh nơi người khác chỉ thấy một bãi rác.)
+ Property is the investment of choice for many of today's eager [entrepreneurs]. (=Dịch: Bất động sản là khoản đầu tư được lựa chọn của nhiều doanh nhân háo hức ngày nay.)
+
+
+exceptional (adj) /ɪkˈsep.ʃən.əl/ 
+ UK 
+ US
+Định nghĩa:
+phi thường, đặc biệt
+=beyond excellent
+Ví dụ:
+ The company has shown [exceptional] growth over the past two years. (=Dịch: Công ty đã cho thấy sự tăng trưởng đặc biệt trong hai năm qua.)
+ This is an [exceptional] contract, guaranteeing no layoffs. (=Dịch: Đây là một hợp đồng đặc biệt, đảm bảo không có sa thải.)
+ The effort put in by the team over the last five days has been [exceptional]. (=Dịch: Nỗ lực của nhóm trong năm ngày qua đã thật đặc biệt.)
+
+
+familiarize (v) /fəˈmɪl.i.ə.raɪz/ 
+ UK 
+ US
+Định nghĩa:
+làm cho quen thân
+=to get to know better
+Ví dụ:
+ Teachers needed to [familiarize] themselves with the new software. (=Dịch: Giáo viên cần làm quen với phần mềm mới.)
+ They were [familiarized] with the task before proceeding with the actual experiment. (=Dịch: Họ đã được làm quen với nhiệm vụ trước khi tiến hành thí nghiệm thực tế.)
+ The tutorial runs you through the tools of the trade and [familiarizes] you with everything you can do in the game. (=Dịch: Phần hướng dẫn sẽ hướng dẫn bạn sử dụng các công cụ giao dịch và làm quen với mọi thứ bạn có thể làm trong trò chơi.)
+
+
+hotline (n) /ˈhɒt.laɪn/ 
+ UK 
+ US
+Định nghĩa:
+đường dây nóng
+=telephone line that gives direct, fast access
+Ví dụ:
+ A national [hotline] has been set up for students suffering from stress. (=Dịch: Một đường dây nóng quốc gia đã được thiết lập cho sinh viên bị căng thẳng.)
+ The [hotline] that took consumer complaints was replaced with a recorded service. (=Dịch: Đường dây nóng tiếp nhận khiếu nại của người tiêu dùng đã được thay thế bằng dịch vụ ghi âm.)
+ Call our free ticket [hotline] now to reserve your place. (=Dịch: Hãy gọi đường dây nóng giữ vé miễn phí của chúng tôi ngay bây giờ để đặt chỗ của bạn.)
+
+
+intonation (n) /ˌɪn.təˈneɪ.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+ngữ điệu
+=the rise and fall of the voice when speaking
+Ví dụ:
+ In English, some questions have a rising [intonation]. (=Dịch: Trong tiếng Anh, một số câu hỏi có ngữ điệu tăng.)
+ The violinist had good [intonation], and a wonderful pure tone. (=Dịch: Nghệ sĩ violin có ngữ điệu tốt và âm thanh trong trẻo tuyệt vời.)
+ She's studying [intonation] patterns in children's speech. (=Dịch: Cô ấy đang nghiên cứu các mẫu ngữ điệu trong lời nói của trẻ em.)
+
+
+invention (n) /ɪnˈven.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+sự phát minh, sự sáng chế
+=the idea or creation of something new
+Ví dụ:
+ Fax machines were a wonderful [invention] at the time. (=Dịch: Máy fax là một phát minh tuyệt vời vào thời điểm đó.)
+ He failed to patent his [invention] and never made a penny from it. (=Dịch: Anh ấy đã không kịp đăng ký bằng sáng chế cho phát minh của mình và không bao giờ kiếm được một xu từ nó.)
+ Such changes have not been seen since the [invention] of the printing press. (=Dịch: Những thay đổi như vậy chưa từng được nhìn thấy kể từ khi phát minh ra máy in.)
+
+
+irritate (v) /ˈɪr.ɪ.teɪt/ 
+ UK 
+ US
+Định nghĩa:
+làm phiền
+=to bother
+Ví dụ:
+ The way she puts on that accent really [irritates] me. (=Dịch: Cách cô ấy nói giọng đó thật sự làm tôi khó chịu.)
+ She was moody at times and easily [irritated]. (=Dịch: Đôi khi cô ấy thất thường và dễ cáu kỉnh.)
+ The noise was beginning to [irritate] me intensely. (=Dịch: Tiếng ồn bắt đầu làm tôi bực mình dữ dội.)
+
+
+locker (n) /ˈlɒk.ər/ 
+ UK 
+ US
+Định nghĩa:
+tủ nhỏ có khóa
+=a small cupboard you can store personal items in securely for a period of time
+Ví dụ:
+ I left my things in my [locker]. (=Dịch: Tôi đã để đồ của mình trong tủ đồ.)
+ He was on a final warning after having pepper spray in a personal [locker] last year. (=Dịch: Anh ấy đã nhận được cảnh báo cuối cùng sau khi có bình xịt hơi cay trong tủ đồ cá nhân năm ngoái.)
+ He also sent up a key for his [locker] where he had left his mobile phone and wallet. (=Dịch: Anh ấy cũng gửi lên một chiếc chìa khóa cho tủ đồ của mình, nơi anh ấy đã để lại điện thoại di động và ví.)
+
+
+overlook (v) /ˌəʊ.vəˈlʊk/ 
+ UK 
+ US
+Định nghĩa:
+bỏ qua, không chú ý tới
+=to ignore, to not notice
+Ví dụ:
+ He seems to have [overlooked] one important fact. (=Dịch: Anh ấy dường như đã bỏ qua một sự thật quan trọng.)
+ In my hurry to finish the exam I had [overlooked] part of one of the questions. (=Dịch: Trong lúc vội vàng hoàn thành bài kiểm tra, tôi đã bỏ qua một phần của một trong các câu hỏi.)
+ It is easy to [overlook] the significance of this change. (=Dịch: Rất dễ để bỏ qua tầm quan trọng của sự thay đổi này.)
+
+
+patent (n) /ˈpæt.ənt/ 
+ UK 
+ US
+Định nghĩa:
+bằng sáng chế; giấy phép độc quyền nhãn hiệu
+=the right to be the only one who is allowed to make a thing
+Ví dụ:
+ Edison took out a [patent] on the light bulb. (=Dịch: Edison đã lấy bằng sáng chế cho bóng đèn.)
+ In 1843 Bain filed a [patent] for his fax machine. (=Dịch: Vào năm 1843, Bain đã nộp bằng sáng chế cho máy fax của mình.)
+ In 1995 he was granted a [patent] for his invention. (=Dịch: Năm 1995, ông đã được cấp bằng sáng chế cho phát minh của mình.)
+
+
+payable (adj) /ˈpeɪ.ə.bəl/ 
+ UK 
+ US
+Định nghĩa:
+có thể trả, phải trả
+=an amount of money due
+Ví dụ:
+ No tax is [payable] on these earnings. (=Dịch: Không phải nộp thuế đối với những khoản thu nhập này.)
+ This amount is [payable] immediately. (=Dịch: Số tiền này phải được thanh toán ngay lập tức.)
+ A 10 per cent deposit is [payable] in advance. (=Dịch: Tiền đặt cọc 10 phần trăm phải được thanh toán trước.)
+
+
+preliminary (n) /prɪˈlɪm.ɪ.nər.i/ 
+ UK 
+ US
+Định nghĩa:
+các bước mở đầu, sự sắp xếp ban đầu
+=The first action that comes before a more important one
+Ví dụ:
+ Our [preliminary] findings suggest an increased risk for those aged over 60. (=Dịch: Những phát hiện ban đầu của chúng tôi cho thấy nguy cơ gia tăng đối với những người trên 60 tuổi.)
+ Jackson is performing well in the [preliminary] stages of the competition. (=Dịch: Jackson đang biểu diễn tốt trong các giai đoạn sơ bộ của cuộc thi.)
+ The two officials will be meeting today in order to establish a [preliminary] agreement. (=Dịch: Hai quan chức sẽ họp hôm nay để thiết lập một thỏa thuận sơ bộ.)
+
+
+salesman (n) /ˈseɪlz.mən/ 
+ UK 
+ US
+Định nghĩa:
+người bán hàng (nam giới)
+=a man whose job it is to get people to buy things from his company
+Ví dụ:
+ He began his career as an insurance [salesman]. (=Dịch: Anh ấy bắt đầu sự nghiệp của mình như một nhân viên bán bảo hiểm.)
+ He worked as a travelling [salesman] for a company that made soap dispensers for the restaurant trade. (=Dịch: Anh ấy làm nhân viên bán hàng lưu động cho một công ty sản xuất hộp đựng xà phòng cho nhà hàng.)
+ a good/persuasive/convincing [salesman] (=Dịch: một nhân viên bán hàng giỏi/thuyết phục/thuyết phục)
+
+
+sauna (n) /ˈsaʊ.nə/ 
+ UK 
+ US
+Định nghĩa:
+phòng tắm hơi
+=a Finnish steam bath; steam is produced by pouring water over heated rocks
+Ví dụ:
+ The strange fever remained, making her feel as if she'd been sitting in a [sauna] for hours. (=Dịch: Cơn sốt kỳ lạ vẫn còn, khiến cô cảm thấy như thể cô đã ngồi trong phòng xông hơi trong nhiều giờ.)
+ Ground floor facilities are completed by the ' leisure suite ' which offers a [sauna], walk-in shower and separate wc with basin. (=Dịch: Các cơ sở tầng trệt được hoàn thiện bởi 'dãy tiện ích giải trí' bao gồm phòng xông hơi, vòi sen đi bộ và nhà vệ sinh riêng với bồn rửa.)
+ It depends on the use of the room, a [sauna] or a sleeping room. (=Dịch: Nó phụ thuộc vào việc sử dụng phòng, phòng xông hơi hoặc phòng ngủ.)
+
+
+smoothly (adv) /ˈsmuːð.li/ 
+ UK 
+ US
+Định nghĩa:
+Một cách êm ả; một cách trôi chảy
+=to do something easily with no trouble
+Ví dụ:
+ The road was blocked for two hours after the accident, but traffic is now flowing [smoothly] again. (=Dịch: Con đường đã bị chặn trong hai giờ sau vụ tai nạn, nhưng giao thông bây giờ lại trôi chảy.)
+ Lead is added to fuel to make car engines run more [smoothly]. (=Dịch: Chì được thêm vào nhiên liệu để làm cho động cơ xe chạy trơn tru hơn.)
+ The pregnancy's gone very [smoothly] so far. (=Dịch: Thai kỳ diễn ra rất suôn sẻ cho đến nay.)
+
+
+sunshine (n) /ˈsʌn.ʃaɪn/ 
+ UK 
+ US
+Định nghĩa:
+ánh sáng mặt trời
+=the warmth and light of the sun
+Ví dụ:
+ Butterflies fluttered about in the [sunshine]. (=Dịch: Những con bướm bay lượn trong ánh nắng.)
+ The house, with its fresh coat of paint, looked lovely in the [sunshine]. (=Dịch: Ngôi nhà, với lớp sơn mới, trông rất đẹp trong ánh nắng.)
+ In the village square, people were milling about in the [sunshine]. (=Dịch: Ở quảng trường làng, mọi người đang tản bộ trong ánh nắng.)
+
+
+tow (v) /təʊ/ 
+ UK 
+ US
+Định nghĩa:
+Kéo đi
+=pull something along
+Ví dụ:
+ You shouldn't drive fast when your car is [towing] a caravan. (=Dịch: Bạn không nên lái xe nhanh khi ô tô của bạn đang kéo một chiếc nhà di động.)
+ The road was closed while the vehicles that had been involved in the accident were [towed] away/off. (=Dịch: Con đường đã bị đóng lại trong khi các phương tiện gặp tai nạn được kéo đi.)
+ The damaged boat was [towed] to safety. (=Dịch: Chiếc thuyền bị hư hại đã được kéo đến nơi an toàn.)
+
+
+translator (n) /trænzˈleɪ.tər/ 
+ UK 
+ US
+Định nghĩa:
+người biên dịch
+=the person who changes something into another language
+Ví dụ:
+ He works as a [translator] and political researcher. (=Dịch: Anh ấy làm việc như một dịch giả và nhà nghiên cứu chính trị.)
+ Speaking through a [translator], the President called his victory a "dream come true". (=Dịch: Nói qua một dịch giả, Tổng thống đã gọi chiến thắng của mình là 'giấc mơ trở thành sự thật'.)
+ The [translator] renders the French 'C'est-à-dire' as 'That is to say'. (=Dịch: Dịch giả dịch 'C'est-à-dire' tiếng Pháp thành 'That is to say'.)
+
+
+tuition (n) /tjuˈɪʃ.ən/ 
+ UK 
+ US
+Định nghĩa:
+học phí
+=the sum of money charged for teaching by a college or university
+Ví dụ:
+ Few can afford the [tuition] of $12,000 a semester. (=Dịch: Ít người có thể chi trả học phí 12,000 đô la mỗi học kỳ.)
+ Many students take jobs to pay the [tuition] for their courses. (=Dịch: Nhiều sinh viên nhận việc làm để trả học phí cho các khóa học của họ.)
+ A private school charges the same [tuition] for all types of students attending the school. (=Dịch: Một trường tư thục thu cùng một mức học phí cho tất cả các loại sinh viên theo học tại trường.)
+
+
+unavailable (adj) /ˌʌnəˈveɪləbl/ 
+ UK 
+ US
+Định nghĩa:
+không có sẵn
+=not ready for use
+Ví dụ:
+ Fresh fruit and vegetables had been [unavailable] for some time. (=Dịch: Trái cây và rau tươi đã không có sẵn trong một thời gian.)
+ I'm sorry, the colonel is [unavailable] now. (=Dịch: Tôi xin lỗi, đại tá hiện không có mặt.)
+ Much of their clothing is custom-made and [unavailable] to the public. (=Dịch: Nhiều quần áo của họ được may theo yêu cầu và không có sẵn cho công chúng.)
+
+
+violation (n) /ˌvaɪəˈleɪʃən/ 
+ UK 
+ US
+Định nghĩa:
+sự vi phạm (luật,...)
+=the act of breaking a rule or law
+Ví dụ:
+ He claimed that the way he'd been treated was a gross [violation] of his civil/constitutional/human rights. (=Dịch: Ông ấy tuyên bố rằng cách ông ấy bị đối xử là một sự vi phạm nghiêm trọng quyền dân sự/hợp hiến/nhân quyền của ông ấy.)
+ The takeover of the embassy constitutes a flagrant/blatant [violation] of international law. (=Dịch: Việc chiếm đoạt đại sứ quán cấu thành một sự vi phạm trắng trợn/rõ ràng luật pháp quốc tế.)
+ It was clear that they had not acted in [violation] of the rules. (=Dịch: Rõ ràng là họ đã không hành động vi phạm các quy tắc.)
+
+
+webpage (n) /ˈweb.peɪdʒ/ 
+ UK 
+ US
+Định nghĩa:
+trang web
+=information shown on the screen of an internet website about a particular subject
+Ví dụ:
+ A website may have many different [webpages] for you to click on and explore. (=Dịch: Một trang web có thể có nhiều trang khác nhau để bạn nhấp vào và khám phá.)
+ Clients will be offered customised [webpages] with details of their policies and investments. (=Dịch: Khách hàng sẽ được cung cấp các trang web tùy chỉnh với chi tiết về các chính sách và đầu tư của họ.)
+ To fit the form on one [webpage] we had to create a long document that consequently needs a lot of scrolling. (=Dịch: Để phù hợp với biểu mẫu trên một trang web, chúng tôi đã phải tạo một tài liệu dài nên cần phải cuộn nhiều.)

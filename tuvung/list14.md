@@ -1,0 +1,656 @@
+accent (n) /ˈæk.sənt/ 
+ UK 
+ US
+Định nghĩa:
+giọng đặc trưng
+=special manner of oral expression
+Ví dụ:
+ She's French but she speaks with an impeccable English [accent] (=Dịch: Cô ấy là người Pháp nhưng nói tiếng Anh với giọng chuẩn không cần chỉnh)
+ She speaks English without the slightest trace of an [accent] (=Dịch: Cô ấy nói tiếng Anh mà không hề có chút dấu vết của giọng địa phương nào)
+ All TV announcers had unbelievable upper class [accents] (=Dịch: Tất cả các phát thanh viên truyền hình đều có [giọng] thuộc tầng lớp thượng lưu không thể tin được)
+
+
+advisory (adj) /ədˈvaɪ.zər.i/ 
+ UK 
+ US
+Định nghĩa:
+liên quan đến tư vấn, cố vấn
+=related to giving advice or an opinion on what to do
+Ví dụ:
+ She is employed by the president in an [advisory] capacity (=Dịch: Cô ấy được tổng thống tuyển dụng với tư cách là người tư vấn)
+ The recommendations follow those issued by the [advisory] committee (=Dịch: Các khuyến nghị tuân theo những điều được đưa ra bởi ủy ban tư vấn)
+ The company is expanding its financial [advisory] service. (=Dịch: Công ty đang mở rộng dịch vụ tư vấn tài chính của mình)
+
+
+asleep (adj) /ə'sliːp/ 
+ UK 
+ US
+Định nghĩa:
+ngủ, đang ngủ
+=not awake, in sleep
+Ví dụ:
+ She slipped between the cool cotton sheets and was soon [asleep]. (=Dịch: Cô trượt vào giữa những tấm vải cotton mát mẻ và nhanh chóng ngủ thiếp đi.)
+ He was so exhausted from today's walk that when he sat down to rest, he fell [asleep]. (=Dịch: Anh ấy kiệt sức sau buổi đi bộ hôm nay đến mức ngồi xuống nghỉ ngơi là ngủ thiếp đi.)
+ She had pizza bagels for lunch and fell [asleep] for a nap soon after we were done. (=Dịch: Cô ấy đã ăn bánh mì vòng pizza cho bữa trưa và ngủ thiếp đi một lát ngay sau khi chúng tôi ăn xong.)
+
+
+authentic (adj) /ɔːˈθen.tɪk/ 
+ UK 
+ US
+Định nghĩa:
+thật, xác thực, không phải là giả
+=real, not fake
+Ví dụ:
+ How can we be sure the signature is [authentic]? (=Dịch: Làm sao chúng ta có thể chắc chắn rằng chữ ký là xác thực?)
+ The letter is now accepted as an [authentic] document (=Dịch: Lá thư hiện nay được chấp nhận là một tài liệu xác thực)
+ It is impossible to know yet if the manuscript being translated is [authentic], because its origin is mysterious. (=Dịch: Hiện tại không thể biết được bản thảo đang được dịch có phải là xác thực không, vì nguồn gốc của nó là bí ẩn.)
+
+
+bakery (n) /ˈbeɪ.kər.i/ 
+ UK 
+ US
+Định nghĩa:
+cửa hàng bánh
+=a place where baked goods (breads and cakes and pastries) are made and sold
+Ví dụ:
+ All the star hotels had cake sales and most [bakeries] ended up selling cakes at discount prices. (=Dịch: Tất cả các khách sạn năm sao đều có chương trình bán bánh ngọt và hầu hết các tiệm bánh đều giảm giá bánh ngọt.)
+ These are standard ingredients used in large [bakeries] that make loaf bread. (=Dịch: Đây là những nguyên liệu tiêu chuẩn được sử dụng trong các tiệm bánh lớn làm bánh mì ổ.)
+ Here are some of my favorite breads from various [bakeries] across Paris. (=Dịch: Đây là một số loại bánh mì yêu thích của tôi từ các tiệm bánh khác nhau ở Paris.)
+
+
+carton (n) /ˈkɑː.tən/ 
+ UK 
+ US
+Định nghĩa:
+hộp bìa cứng, hộp đựng hàng
+=a box made of cardboard or plastic in which things like milk and juice are sold
+Ví dụ:
+ Empty egg [cartons] can be reused or recycled. (=Dịch: Hộp trứng rỗng có thể được tái sử dụng hoặc tái chế.)
+ Ask what their favourite sandwich is and give them a small [carton] of milk or a yogurt drink as a treat. (=Dịch: Hỏi xem bánh sandwich yêu thích của họ là gì và tặng họ một hộp sữa nhỏ hoặc một ly sữa chua như một món quà.)
+ The company uses agency workers to pack computer monitors into shipping [cartons]. (=Dịch: Công ty sử dụng nhân viên đại lý để đóng gói màn hình máy tính vào thùng vận chuyển.)
+
+
+compartment (n) /kəmˈpɑːt.mənt/ 
+ UK 
+ US
+Định nghĩa:
+gian, ngăn
+=a part of a closed area that has been separated from a bigger one
+Ví dụ:
+ She folded her coat and put it in the overhead luggage [compartment]. (=Dịch: Cô ấy gấp áo khoác của mình và đặt nó vào ngăn để hành lý trên đầu.)
+ There should be [compartments] and pockets and pouches to hold stuff like your coins, keys and cell phone (=Dịch: Nên có các ngăn và túi nhỏ để giữ những thứ như tiền xu, chìa khóa và điện thoại di động của bạn.)
+ Tickets cost 22 leva an adult for first class [compartments]. (=Dịch: Vé hạng nhất cho người lớn có giá 22 leva.)
+
+
+compatible (adj) /kəmˈpæt.ə.bəl/ 
+ UK 
+ US
+Định nghĩa:
+phù hợp với, tương thích
+=to go well with
+Ví dụ:
+ Such policies are not [compatible] with democratic government. (=Dịch: Những chính sách như vậy không tương thích với chính phủ dân chủ.)
+ This software may not be [compatible] with older operating systems. (=Dịch: Phần mềm này có thể không tương thích với các hệ điều hành cũ hơn.)
+ We offer our customers the choice between original and [compatible] ink cartridges. (=Dịch: Chúng tôi cung cấp cho khách hàng sự lựa chọn giữa hộp mực gốc và hộp mực tương thích.)
+
+
+consumption (n) /kənˈsʌmp.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+sự tiêu thụ
+=the act of eating
+Ví dụ:
+ These products are not for national [consumption], but for export. (=Dịch: Những sản phẩm này không phải để tiêu thụ trong nước, mà để xuất khẩu.)
+ The meat was clearly unfit for human [consumption] (=Dịch: Thịt rõ ràng không phù hợp cho tiêu thụ của con người.)
+ In this period, there were 974 outbreaks of communicable disease attributed to the [consumption] of raw milk. (=Dịch: Trong giai đoạn này, đã có 974 đợt bùng phát các bệnh truyền nhiễm được quy cho việc tiêu thụ sữa tươi.)
+
+
+conveniently (adv) /kənˈviː.ni.ənt.li/ 
+ UK 
+ US
+Định nghĩa:
+một cách dễ dàng, tiện lợi
+=in a manner that is easy
+Ví dụ:
+ The house is [conveniently] situated near the station and the shops. (=Dịch: Ngôi nhà được đặt ở vị trí thuận tiện gần nhà ga và các cửa hàng.)
+ An additional power switch for the radio is [conveniently] located next to the steering wheel. (=Dịch: Một công tắc điện bổ sung cho radio được đặt thuận tiện bên cạnh vô lăng.)
+ They have [conveniently] provided a return envelope for you to use. (=Dịch: Họ đã tiện lợi cung cấp một phong bì trả lời để bạn sử dụng.)
+
+
+cosmetic (adj) /kɒzˈmet.ɪk/ 
+ UK 
+ US
+Định nghĩa:
+làm cho tốt hơn mà không thay đổi nó quá nhiều
+=makes something look better without changing it too much
+Ví dụ:
+ Whether the change is more [cosmetic] than concrete is a matter of opinion. (=Dịch: Việc thay đổi có mang tính hình thức hơn là thực tế hay không là tuỳ vào quan điểm.)
+ They were offered a few [cosmetic] improvements to their working conditions, but nothing of significance. (=Dịch: Họ đã được đề nghị một vài cải thiện về mặt hình thức cho điều kiện làm việc của mình, nhưng không có gì đáng kể.)
+ We are committed to addressing the root causes of our problems rather than making only short-term [cosmetic] changes. (=Dịch: Chúng tôi cam kết giải quyết các nguyên nhân gốc rễ của vấn đề thay vì chỉ thực hiện những thay đổi hình thức ngắn hạn.)
+
+
+courtesy (n) /ˈkɜː.tə.si/ 
+ UK 
+ US
+Định nghĩa:
+sự lịch sự, sự nhã nhặn
+=a kindness to someone
+Ví dụ:
+ The president welcomed her visitors with the usual [courtesies]. (=Dịch: Tổng thống đã chào đón những người thăm của cô ấy với những sự lịch sự thông thường.)
+ As a [courtesy], we will email you if there is any change to these arrangements. (=Dịch: Như một sự lịch sự, chúng tôi sẽ gửi email cho bạn nếu có bất kỳ thay đổi nào đối với những sắp xếp này.)
+ I have written to the customer relations director twice but he has not had the [courtesy] to reply. (=Dịch: Tôi đã viết thư cho giám đốc quan hệ khách hàng hai lần nhưng ông ta không lịch sự để trả lời.)
+
+
+creativity (n) /ˌkriː.eɪˈtɪv.ə.t̬i/ 
+ UK 
+ US
+Định nghĩa:
+óc sáng tạo, tính sáng tạo
+=the state of having talent and imagination
+Ví dụ:
+ The aim of the award is to encourage [creativity] and innovation. (=Dịch: Mục tiêu của giải thưởng là khuyến khích sự sáng tạo và đổi mới.)
+ Working in an office can suck out all of the energy and [creativity] in your system. (=Dịch: Làm việc trong văn phòng có thể hút hết năng lượng và sự sáng tạo trong hệ thống của bạn.)
+ The winners have shown great [creativity], honesty and passion through their work. (=Dịch: Những người chiến thắng đã thể hiện sự sáng tạo, trung thực và đam mê tuyệt vời qua công việc của họ.)
+
+
+criteria (n) /kraɪˈtɪəriə/ 
+ UK 
+ US
+Định nghĩa:
+tiêu chuẩn, chỉ tiêu
+=details used to make a decision
+Ví dụ:
+ They award a green label to products that meet certain environmental [criteria] (=Dịch: Họ trao nhãn xanh cho các sản phẩm đáp ứng các tiêu chí môi trường nhất định)
+ There will also be a review of all existing holders to make sure they meet the new [criteria]. (=Dịch: Sẽ có một cuộc rà soát tất cả các chủ sở hữu hiện có để đảm bảo họ đáp ứng các tiêu chí mới.)
+ In some circumstances it is difficult to make economic [criteria] apply even in principle. (=Dịch: Trong một số trường hợp, rất khó để áp dụng tiêu chí kinh tế ngay cả về nguyên tắc.)
+
+
+disagreement (n) /ˌdɪs.əˈɡriː.mənt/ 
+ UK 
+ US
+Định nghĩa:
+sự bất đồng ý kiến
+=the act of having a difference of opinion
+Ví dụ:
+ We had a [disagreement] about/over the fee for the work. (=Dịch: Chúng tôi đã có một cuộc bất đồng về phí cho công việc.)
+ The candidates had few [disagreements] about the major issues. (=Dịch: Các ứng cử viên có rất ít bất đồng về các vấn đề chính.)
+ He stepped down last year after [disagreements] with the club president (=Dịch: Anh ấy đã từ chức vào năm ngoái sau những bất đồng với chủ tịch câu lạc bộ.)
+
+
+discontinue (v) /ˌdɪs.kənˈtɪn.juː/ 
+ UK 
+ US
+Định nghĩa:
+ngừng, làm gián đoạn
+=stop doing it
+Ví dụ:
+ The airline announced that weekday flights to Kansas City would be [discontinued]. (=Dịch: Hãng hàng không thông báo rằng các chuyến bay trong tuần đến Kansas City sẽ bị ngừng hoạt động.)
+ Access to online services and live technical support will be [discontinued] after April 30th. (=Dịch: Quyền truy cập vào các dịch vụ trực tuyến và hỗ trợ kỹ thuật trực tiếp sẽ bị ngừng sau ngày 30 tháng Tư.)
+ The bank is [discontinuing] this service. (=Dịch: Ngân hàng sẽ ngừng dịch vụ này.)
+
+
+dishwasher (n) /ˈdɪʃˌwɒʃ.ər/ 
+ UK 
+ US
+Định nghĩa:
+máy rửa chén
+=a machine that cleans dirty dishes
+Ví dụ:
+ This [dishwasher] even washes pots and pans . (=Dịch: Máy rửa chén này thậm chí còn rửa cả nồi và chảo.)
+ Most newer refrigerators, [dishwashers], washing machines, and dryers let you reduce the energy they consume. (=Dịch: Hầu hết các tủ lạnh, máy rửa chén, máy giặt và máy sấy mới hơn đều cho phép bạn giảm năng lượng tiêu thụ.)
+ Swing doors give access to a utility room plumbed for a [dishwasher], washing machine and tumble dryer. (=Dịch: Cửa đung đưa cho phép tiếp cận vào một phòng tiện ích có lắp đặt hệ thống cho máy rửa chén, máy giặt và máy sấy đồ.)
+
+
+drought (n) /draʊt/ 
+ UK 
+ US
+Định nghĩa:
+hạn hán
+=a period of time when there is very little rainfall
+Ví dụ:
+ This year (a) severe [drought] has ruined the crops. (=Dịch: Năm nay, hạn hán nghiêm trọng đã làm hỏng mùa màng.)
+ Chinese officials say cloud seeding has helped to relieve severe [droughts] and water shortages in cities. (=Dịch: Các quan chức Trung Quốc nói rằng việc gieo mây đã giúp giảm bớt hạn hán và thiếu nước nghiêm trọng ở các thành phố.)
+ From hurricane to [droughts], weird weather can shake up the economy. (=Dịch: Từ bão đến hạn hán, thời tiết kỳ lạ có thể làm xáo trộn nền kinh tế.)
+
+
+economize (v) /ɪˈkɒn.ə.maɪz/ 
+ UK 
+ US
+Định nghĩa:
+tiết kiệm tiền, tránh lãng phí
+=to save money, avoid waste
+Ví dụ:
+ A lot of companies are trying to [economize] by not taking on new staff. (=Dịch: Rất nhiều công ty đang cố gắng tiết kiệm bằng cách không tuyển nhân viên mới.)
+ Shoppers are going for less expensive food in an effort to [economize]. (=Dịch: Người mua sắm đang chọn thực phẩm ít tốn kém hơn để tiết kiệm.)
+ Outsourcing is mostly used as an [economizing] strategy. (=Dịch: Gia công phần mềm chủ yếu được sử dụng như một chiến lược tiết kiệm.)
+
+
+entrée (n) /ˈɒn.treɪ/ 
+ UK 
+ US
+Định nghĩa:
+quyền được tham gia, tham dự
+=the right to enter or join a particular sphere or group.
+Ví dụ:
+ That initial contact gave her [entrée] into other university offerings. (=Dịch: Sự tiếp xúc ban đầu đó đã cho cô ấy cơ hội tiếp cận các hoạt động khác của trường đại học.)
+ Their connections and relative wealth gave them [entrée] to all of the most select entertainments (=Dịch: Các mối quan hệ và sự giàu có tương đối của họ đã cho họ cơ hội tiếp cận tất cả các hoạt động giải trí chọn lọc nhất.)
+ Although here too they were not an overwhelming success, the series served as his [entrée] into American popular culture. (=Dịch: Mặc dù ở đây họ cũng không phải là một thành công vang dội, nhưng loạt phim này đã phục vụ như là cơ hội tiếp cận của ông vào văn hóa đại chúng Mỹ.)
+
+
+firework (n) /ˈfaɪə.wɜːk/ 
+ UK 
+ US
+Định nghĩa:
+pháo hoa
+=a small stick-like object that, when lit with a flame, goes off with a bang and flashes of colored light
+Ví dụ:
+ They let off a big [firework] as a signal that the festival had started. (=Dịch: Họ đã bắn pháo hoa lớn như một tín hiệu rằng lễ hội đã bắt đầu.)
+ The evening ended with a thrilling display of [fireworks]. (=Dịch: Buổi tối kết thúc với màn trình diễn pháo hoa kịch tính.)
+ The sky was alight with hundreds of [fireworks]. (=Dịch: Bầu trời rực sáng với hàng trăm quả pháo hoa.)
+
+
+freight (n) /freɪt/ 
+ UK 
+ US
+Định nghĩa:
+hàng hoá chuyên chở
+=goods that are transported from one place to another
+Ví dụ:
+ The ship carries both [freight] and passengers. (=Dịch: Con tàu chở cả hàng hóa và hành khách.)
+ Will the goods be sent by air or sea [freight]? (=Dịch: Hàng hóa sẽ được gửi bằng đường hàng không hay đường biển?)
+ This decision will result in a large amount of heavy [freight] being carried by lorries on the already overcrowded roads. (=Dịch: Quyết định này sẽ dẫn đến một lượng lớn hàng hóa nặng được vận chuyển bằng xe tải trên những con đường đã quá đông đúc.)
+
+
+fry (v) /fraɪ/ 
+ UK 
+ US
+Định nghĩa:
+chiên rán
+=to cook in a pan
+Ví dụ:
+ [Fry] four chicken joints in a pan with some mushrooms and garlic. (=Dịch: Rán bốn miếng gà trong chảo với một chút nấm và tỏi.)
+ She was [frying] eggs and getting the coffee ready. (=Dịch: Cô ấy đang chiên trứng và chuẩn bị cà phê.)
+ It is healthier to grill or steam your food than to [fry] it. (=Dịch: Nướng hoặc hấp thức ăn của bạn thì khỏe mạnh hơn là chiên.)
+
+
+gallon (n) /ˈɡæl.ən/ 
+ UK 
+ US
+Định nghĩa:
+Galông (đơn vị đo lường chất lỏng bằng 3, 78 lít ở Mỹ)
+=a type of measurement equal to 3.78 liters
+Ví dụ:
+ An imperial [gallon], used in Britain, is equal to 4,546 cubic centimetres. (=Dịch: Một gallon hoàng gia, được sử dụng ở Anh, tương đương với 4.546 centimet khối.)
+ The price of petrol will rise by 5p a [gallon] from tomorrow. (=Dịch: Giá xăng sẽ tăng lên 5 xu một gallon từ ngày mai.)
+ The average federally set price of milk is expected to rise 42 cents, to $1.58 a [gallon]. (=Dịch: Giá sữa trung bình do liên bang quy định dự kiến sẽ tăng 42 cent, lên 1,58 đô la một gallon.)
+
+
+gardener (n) /ˈɡɑː.dən.ər/ 
+ UK 
+ US
+Định nghĩa:
+người làm vườn
+=a person who works with plants and flowers for a living
+Ví dụ:
+ These young trees were carefully nursed by the head [gardener]. (=Dịch: Những cây non này đã được người làm vườn trưởng chăm sóc cẩn thận.)
+ This is quite a difficult plant for inexperienced [gardeners] to grow. (=Dịch: Đây là một loại cây khá khó để những người làm vườn thiếu kinh nghiệm trồng.)
+ It is self-seeding, and [gardeners] are often careful as to where the seeds fall as it will quite happily grow in a lawn (=Dịch: Nó tự gieo hạt và người làm vườn thường cẩn thận xem hạt rơi ở đâu vì nó sẽ phát triển khá tốt trên bãi cỏ)
+
+
+ideally (adv) /aɪˈdɪə.li/ 
+ UK 
+ US
+Định nghĩa:
+trong lý tưởng, một cách lý tưởng
+=in a perfect world
+Ví dụ:
+ [Ideally], I'd like to work at home but it's just not practical. (=Dịch: Lý tưởng nhất, tôi muốn làm việc tại nhà nhưng điều đó không thực tế.)
+ To minimise error, [ideally] no more than four numbers should be used in a code. (=Dịch: Để giảm thiểu lỗi, lý tưởng nhất là không nên sử dụng quá bốn số trong một mã.)
+ [Ideally] the concepts and materials should be introduced and promoted by tutors. (=Dịch: Lý tưởng nhất là các khái niệm và tài liệu nên được giới thiệu và quảng bá bởi các giáo viên.)
+
+
+inclusive (adj) /ɪnˈkluː.sɪv/ 
+ UK 
+ US
+Định nghĩa:
+Bao gồm tất cả mọi thứ
+=includes everything
+Ví dụ:
+ The governments want to reach a settlement that is as [inclusive] as possible. (=Dịch: Chính phủ muốn đạt được một thỏa thuận bao gồm nhiều thành phần nhất có thể.)
+ The house and grounds, [inclusive] of all outbuildings, belong to my client. (=Dịch: Ngôi nhà và khu đất, bao gồm tất cả các công trình phụ, thuộc về khách hàng của tôi.)
+ Although you were given an estimate [inclusive] of fees, the actual repair could be much higher. (=Dịch: Mặc dù bạn đã được đưa ra một ước tính bao gồm các khoản phí, việc sửa chữa thực tế có thể cao hơn nhiều.)
+
+
+insufficient (adj) /ˌɪn.səˈfɪʃ.ənt/ 
+ UK 
+ US
+Định nghĩa:
+không đủ
+=not enough
+Ví dụ:
+ The management paid [insufficient] attention to working conditions. (=Dịch: Ban quản lý đã không chú ý đủ đến điều kiện làm việc.)
+ There are fears that the existing flood barrier may prove [insufficient]. (=Dịch: Có lo ngại rằng rào chắn lũ hiện tại có thể không đủ.)
+ I'm afraid we have [insufficient] evidence. (=Dịch: Tôi e rằng chúng tôi không có đủ bằng chứng.)
+
+
+introductory (adj) /ˌɪn.trəˈdʌk.tər.i/ 
+ UK 
+ US
+Định nghĩa:
+để giới thiệu, mở đầu
+=something that comes before the main event, e.g. introductory speech
+Ví dụ:
+ [introductory] chapters/paragraphs/remarks (=Dịch: các chương/đoạn/văn giới thiệu)
+ [introductory] courses/lectures (=Dịch: các khóa học/bài giảng giới thiệu)
+ The booklist at the end of the chapter contains some [introductory] reading on the subject. (=Dịch: Danh sách sách ở cuối chương chứa một số tài liệu đọc giới thiệu về chủ đề này.)
+
+
+junk (n) /dʒʌŋk/ 
+ UK 
+ US
+Định nghĩa:
+vật phẩm vô dụng; rác
+=useless item; trash
+Ví dụ:
+ I've cleared out all that old [junk] in the attic. (=Dịch: Tôi đã dọn hết tất cả đồ cũ trong gác mái.)
+ There were bits of [junk] lying around. (=Dịch: Có những mẩu rác nằm xung quanh.)
+ They cleared out the [junk] room (= a room where you keep thngs that you no longer need or want) to make a tiny bedroom. (=Dịch: Họ đã dọn dẹp phòng chứa đồ linh tinh (một căn phòng giữ những thứ mà bạn không còn cần hoặc muốn nữa) để làm một phòng ngủ nhỏ.)
+ma'am (n) /mæm/ 
+ UK 
+ US
+Định nghĩa:
+Thưa bà *đây là từ viết tắt của 'madam' - phu nhân, đây là một cách lịch sự để gọi/xưng hộ với một người phụ nữ
+=short for 'madam', a polite way to address a woman
+Ví dụ:
+ How can I help you, [ma'am]? (=Dịch: Tôi có thể giúp gì cho bà, thưa bà?)
+ "It'll be an hour, [ma'am]," a guard reported from the door, with a glance at the arm lodged there. (=Dịch: "Sẽ là một giờ, thưa bà," một người lính gác báo cáo từ cửa, liếc nhìn cánh tay bị kẹt ở đó.)
+ Cortland Finnegan is polite, rarely forgetting to say "Thank you" and "Yes, [ma'am]." (=Dịch: Cortland Finnegan lịch sự, hiếm khi quên nói "Cảm ơn" và "Vâng, thưa bà.")
+
+
+mileage (n) /ˈmaɪ.lɪdʒ/ 
+ UK 
+ US
+Định nghĩa:
+tổng số dặm đã đi được
+=distance travelled in miles
+Ví dụ:
+ My annual [mileage] is about 10 000. (=Dịch: Số dặm hàng năm của tôi là khoảng 10.000.)
+ The car rental included unlimited [mileage], but not fuel. (=Dịch: Việc thuê xe bao gồm số dặm không giới hạn, nhưng không bao gồm nhiên liệu.)
+ I get a [mileage] allowance if I use my car for work (= an amount of money paid for each mile I travel). (=Dịch: Tôi nhận được trợ cấp số dặm nếu tôi sử dụng xe của mình cho công việc (= một khoản tiền được trả cho mỗi dặm tôi đi).)
+
+
+noisy (adj) /ˈnɔɪ.zi/ 
+ UK 
+ US
+Định nghĩa:
+ồn ào
+=too loud
+Ví dụ:
+ The kids were even [noisier] than the dogs. (=Dịch: Lũ trẻ còn ồn ào hơn cả những con chó.)
+ The engine is very [noisy] at high speed. (=Dịch: Động cơ rất ồn ở tốc độ cao.)
+ They are a small but [noisy] pressure group (= they attract attention to their ideas by frequent discussion and argument in public and in the media). (=Dịch: Họ là một nhóm áp lực nhỏ nhưng ồn ào (= họ thu hút sự chú ý đến ý tưởng của mình bằng cách thảo luận và tranh luận thường xuyên trước công chúng và trên các phương tiện truyền thông).)
+
+
+pan (n) /pæn/ 
+ UK 
+ US
+Định nghĩa:
+cái chảo
+=a flat, round cooking container used for frying
+Ví dụ:
+ Heat a large non-stick saute [pan] over a medium heat. (=Dịch: Đun nóng một chảo chống dính lớn trên lửa vừa.)
+ Remove the [pan] from the heat and add the sugar. (=Dịch: Nhấc chảo ra khỏi lửa và thêm đường vào.)
+ a nonstick [pan] (=Dịch: một chảo chống dính)
+
+
+parcel (n) /ˈpɑː.səl/ 
+ UK 
+ US
+Định nghĩa:
+kiện hàng
+=something wrapped in paper so that it can be sent, or delivered somewhere
+Ví dụ:
+ There's a [parcel] and some letters for you. (=Dịch: Có một gói bưu phẩm và vài lá thư cho bạn.)
+ She was carrying a [parcel] of books under her arm. (=Dịch: Cô ấy đang kẹp một bưu kiện sách dưới cánh tay.)
+ The prisoners were allowed food [parcels]. (=Dịch: Các tù nhân được phép nhận các gói thực phẩm.)
+
+
+pasta (n) /ˈpæs.tə/ 
+ UK 
+ US
+Định nghĩa:
+mì ống và nui
+=shaped and dried dough, made from flour and water, often used in Italian cooking
+Ví dụ:
+ Toss the [pasta] with the hot sauce. (=Dịch: Trộn mì ống với sốt nóng.)
+ For dinner we have [pasta] or jacket potatoes, salad or a few vegetables. (=Dịch: Bữa tối chúng tôi có mì ống hoặc khoai tây nướng, salad hoặc vài loại rau.)
+ We eat [pasta] and risotto with truffles at an Italian restaurant. (=Dịch: Chúng tôi ăn mì ống và risotto với nấm truffle tại một nhà hàng Ý.)
+
+
+periodical (n) /ˌpɪəriˈɒdɪkl/ 
+ UK 
+ US
+Định nghĩa:
+tạp chí xuất bản định kỳ
+=a magazine made and available on a regular basis
+Ví dụ:
+ The university library stocks some 5 000 current [periodicals]. (=Dịch: Thư viện đại học dự trữ khoảng 5.000 tạp chí hiện tại.)
+ The walls would be lined with books and [periodicals]. (=Dịch: Các bức tường sẽ được lót đầy sách và tạp chí.)
+ ...a monthly [periodical]. (=Dịch: ...một tạp chí hàng tháng.)
+
+
+pill (n) /pɪl/ 
+ UK 
+ US
+Định nghĩa:
+thuốc dạng viên nén
+=medicine in the form of a capsule that you swallow
+Ví dụ:
+ The doctor prescribed her some [pills] to help her sleep. (=Dịch: Bác sĩ kê cho cô ấy vài viên thuốc để giúp cô ấy ngủ.)
+ I was on various [pills] for my heart condition. (=Dịch: Tôi đã uống nhiều loại thuốc khác nhau cho tình trạng tim của mình.)
+ Take three [pills] daily after meals. (=Dịch: Uống ba viên mỗi ngày sau bữa ăn.)
+
+
+portable (n) /ˈpɔː.tə.bəl/ 
+ UK 
+ US
+Định nghĩa:
+vật xách tay
+=something that is small and easy to carry
+Ví dụ:
+ We specialize in handheld PCs and other [portables]. (=Dịch: Chúng tôi chuyên về máy tính cầm tay và các thiết bị di động khác.)
+ new video games for consoles and [portables] (=Dịch: trò chơi điện tử mới cho máy console và thiết bị di động)
+ The majority of people listen to music on [portables] or in cars. (=Dịch: Phần lớn mọi người nghe nhạc trên thiết bị di động hoặc trong ô tô.)
+
+
+punctual (adj) /ˈpʌŋk.tʃu.əl/ 
+ UK 
+ US
+Định nghĩa:
+đúng giờ
+=arriving on time
+Ví dụ:
+ The successful candidate will be efficient, neat, and [punctual]. (=Dịch: Ứng viên thành công sẽ hiệu quả, gọn gàng và đúng giờ.)
+ Please try and be [punctual] for the meeting. (=Dịch: Vui lòng cố gắng và đúng giờ cho cuộc họp.)
+ [Punctual] attendance at all classes is required. (=Dịch: Yêu cầu tham dự đúng giờ tất cả các lớp học.)
+
+
+recreation (n) /ˌrek.riˈeɪ.ʃən/ 
+ UK 
+ US
+Định nghĩa:
+thời gian rảnh rỗi
+=leisure
+Ví dụ:
+ His favourite [recreations] are golf and playing Scrabble. (=Dịch: Sở thích giải trí của anh ấy là chơi golf và chơi Scrabble.)
+ Emma's only form of [recreations] seems to be shopping. (=Dịch: Hình thức giải trí duy nhất của Emma dường như là đi mua sắm.)
+ The council is encouraging the development of the property for both employment and [recreation]. (=Dịch: Hội đồng đang khuyến khích phát triển tài sản cho cả việc làm và giải trí.)
+
+
+relieve (v) /rɪˈliːv/ 
+ UK 
+ US
+Định nghĩa:
+làm dịu đi, làm mất đi (cơn đau, lo âu, phiền muộn...); làm khuây khoả
+=to take something away from someone
+Ví dụ:
+ There must be some way you can [relieve] the pain. (=Dịch: Phải có cách nào đó để bạn có thể giảm bớt cơn đau.)
+ This cream [relieves] the swelling caused by insect stings. (=Dịch: Kem này làm giảm sưng do vết đốt của côn trùng gây ra.)
+ They removed the blood clot in order to [relieve] the pressure on her brain. (=Dịch: Họ đã loại bỏ cục máu đông để giảm áp lực lên não của cô ấy.)
+
+
+reminder (n) /rɪˈmaɪn.dər/ 
+ UK 
+ US
+Định nghĩa:
+cái làm nhớ lại (một điều gì)
+=something that makes you remember something
+Ví dụ:
+ The monument stands as a chilling [reminder] of man's inhumanity to man. (=Dịch: Tượng đài đứng như một lời nhắc nhở rùng rợn về sự vô nhân đạo của con người đối với con người.)
+ The accident is a grim [reminder] of the potential dangers involved in North Sea oil production. (=Dịch: Vụ tai nạn là một lời nhắc nhở đen tối về những nguy hiểm tiềm ẩn liên quan đến sản xuất dầu ở Biển Bắc.)
+ Your letter came as a timely [reminder] that we need to arrange a meeting. (=Dịch: Lá thư của bạn đến như một lời nhắc nhở đúng lúc rằng chúng ta cần sắp xếp một cuộc họp.)
+
+
+rumor (n) /ˈruː.mər/ 
+ UK 
+ US
+Định nghĩa:
+tin đồn
+=something said by people but not necessarily true
+Ví dụ:
+ [Rumors] are going around (the school) about Mr. Mason and his assistant. (=Dịch: Tin đồn đang lan truyền (trong trường) về ông Mason và trợ lý của ông ấy.)
+ She's circulating/spreading [rumors] that the manager is going to resign. (=Dịch: Cô ấy đang lan truyền tin đồn rằng quản lý sẽ từ chức.)
+ I heard a [rumor] that she'd been seeing Luke Harrison. (=Dịch: Tôi nghe tin đồn rằng cô ấy đã hẹn hò với Luke Harrison.)
+
+
+scarf (n) /skɑːrf/ 
+ UK 
+ US
+Định nghĩa:
+khăn quàng cổ
+=a long, narrow piece of material you wear round your neck to keep you warm
+Ví dụ:
+ He had a woollen [scarf] around his neck. (=Dịch: Anh ấy quàng một chiếc khăn len quanh cổ.)
+ She wound a [scarf] around her neck. (=Dịch: Cô ấy quấn một chiếc khăn quanh cổ.)
+ He was wearing a hat and [scarf] against the cold. (=Dịch: Anh ấy đội mũ và quàng khăn để chống lạnh.)
+
+
+seaside (n) /ˈsiː.saɪd/ 
+ UK 
+ US
+Định nghĩa:
+bên bờ biển
+=a place right by the ocean where people can go to relax and have fun
+Ví dụ:
+ a trip to the [seaside] (=Dịch: một chuyến đi đến bờ biển)
+ Summers were spent at the [seaside]. (=Dịch: Những mùa hè được dành ở bờ biển.)
+ They have a cottage by the [seaside]. (=Dịch: Họ có một căn nhà tranh bên bờ biển.)
+
+
+shorten (v) /ˈʃɔː.tən/ 
+ UK 
+ US
+Định nghĩa:
+rút ngắn
+=to make smaller in length
+Ví dụ:
+ I'd like to have this jacket [shortened] by about two inches. (=Dịch: Tôi muốn rút ngắn chiếc áo khoác này khoảng hai inch.)
+ The course has now been [shortened] considerably. (=Dịch: Khóa học bây giờ đã được rút ngắn đi đáng kể.)
+ The waiting time has been [shortened] dramatically from eight weeks to just one week. (=Dịch: Thời gian chờ đã được rút ngắn đáng kể từ tám tuần xuống chỉ còn một tuần.)
+
+
+specially (adv) /ˈspeʃ.əl.i/ 
+ UK 
+ US
+Định nghĩa:
+đặc biệt
+=in particular
+Ví dụ:
+ She seemed [specially] keen to talk to him. (=Dịch: Cô ấy dường như đặc biệt muốn nói chuyện với anh ta.)
+ The meeting was [specially] well attended tonight. (=Dịch: Buổi họp tối nay có sự tham dự đặc biệt đông đảo.)
+ Are you [specially] interested in watching this programme? (=Dịch: Bạn có đặc biệt quan tâm đến việc xem chương trình này không?)
+
+
+spill (v) /spɪl/ 
+ UK 
+ US
+Định nghĩa:
+làm đổ
+=to accidentally empty a container, e.g. spill a glass of milk
+Ví dụ:
+ I [spilled] coffee on my silk shirt. (=Dịch: Tôi đã làm đổ cà phê lên áo lụa của mình.)
+ You've [spilled] something down your tie. (=Dịch: Bạn đã làm đổ thứ gì đó lên cà vạt của mình.)
+ Let's see if I can pour the juice into the glass without [spilling] it. (=Dịch: Hãy xem liệu tôi có thể rót nước trái cây vào ly mà không làm đổ ra không.)
+
+
+spouse (n) /spaʊs/ 
+ UK 
+ US
+Định nghĩa:
+chồng; vợ
+=the person you are married to
+Ví dụ:
+ In 60 percent of the households surveyed both [spouses] went out to work. (=Dịch: Trong 60 phần trăm các hộ gia đình được khảo sát, cả hai vợ chồng đều đi làm.)
+ The insured persons in property and casualty policies may include residents of the insured's household, such as [spouse] and children. (=Dịch: Những người được bảo hiểm trong các chính sách tài sản và tổn thất có thể bao gồm cư dân trong hộ gia đình được bảo hiểm, chẳng hạn như vợ/chồng và con cái.)
+ If your [spouse] is significantly younger than you, the payout for a joint survivorship policy is significantly less than for an individual annuity. (=Dịch: Nếu vợ/chồng của bạn trẻ hơn bạn đáng kể, khoản thanh toán cho chính sách sinh tồn chung sẽ ít hơn đáng kể so với niên kim cá nhân.)
+
+
+subtract (v) /səbˈtrækt/ 
+ UK 
+ US
+Định nghĩa:
+trừ đi, lấy đi
+=take away from
+Ví dụ:
+ The costs of manufacturing are [subtracted] from revenue. (=Dịch: Chi phí sản xuất được trừ vào doanh thu.)
+ 6 [subtracted] from 9 is 3 (=Dịch: 9 trừ 6 là 3.)
+ If you [subtract] 6 from 9, you get 3. (=Dịch: Nếu bạn trừ 6 từ 9, bạn được 3.)
+
+
+tablet (n) /ˈtæb.lət/ 
+ UK 
+ US
+Định nghĩa:
+Tấm, bản, thẻ, phiến
+=a small flat solid cake of some substance
+Ví dụ:
+ The poem was engraved on a [tablet] of stone. (=Dịch: Bài thơ được khắc trên một tấm đá.)
+ The archaeologists found six [tablets] recording business transactions from over three thousand years ago. (=Dịch: Các nhà khảo cổ đã tìm thấy sáu tấm bảng ghi lại các giao dịch kinh doanh từ hơn ba nghìn năm trước.)
+ The [tablets] which hold the names of temporally more distant ancestors become the focus of larger groups of agnates. (=Dịch: Những tấm bảng ghi tên tổ tiên có niên đại xa hơn trở thành trọng tâm của các nhóm họ hàng lớn hơn.)
+
+
+ton (n) /tʌn/ 
+ UK 
+ US
+Định nghĩa:
+tấn (đơn vị đo)
+=a measurement equalling 2000 pounds
+Ví dụ:
+ Customs officers have seized nearly a [ton] of heroin destined for New York. (=Dịch: Các nhân viên hải quan đã thu giữ gần một tấn heroin đang trên đường tới New York.)
+ The rock weighed over a [ton] and was completely immovable. (=Dịch: Tảng đá nặng hơn một tấn và hoàn toàn không thể di chuyển được.)
+ What on earth have you got in this bag, Elaine? It weighs a [ton]! (=Dịch: Cô có cái gì trong túi này vậy, Elaine? Nó nặng cả tấn!)
+
+
+vend (v) /vend/ 
+ UK 
+ US
+Định nghĩa:
+bán (hàng hóa)
+=To offer something for sale or to sell something
+Ví dụ:
+ Some websites [vend] a bizarre array of items. (=Dịch: Một số trang web bán một loạt các món đồ kỳ quặc.)
+ The online retailer [vends] a range of retro sports apparel. (=Dịch: Nhà bán lẻ trực tuyến bán các loại trang phục thể thao cổ điển.)
+ The covered market has many small stalls where traders [vend] locally-made crafts and sweetmeats. (=Dịch: Chợ có mái che có nhiều sạp nhỏ nơi các thương nhân bán các sản phẩm thủ công và kẹo nội địa.)
+
+
+yoga (n) /ˈjəʊ.ɡə/ 
+ UK 
+ US
+Định nghĩa:
+yoga
+=a system of exercise to give control over your mind and body
+Ví dụ:
+ He attends regular [yoga] classes. (=Dịch: Anh ấy tham gia các lớp học yoga thường xuyên.)
+ I go to a [yoga] session on Thursdays. (=Dịch: Tôi tham gia một buổi tập yoga vào các ngày thứ Năm.)
+ She does [yoga] for an hour a day. (=Dịch: Cô ấy tập yoga một giờ mỗi ngày.)

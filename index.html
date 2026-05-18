@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="vi" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0f0f1a" />
+    <title>Grammar Quest — Chinh phục ngữ pháp TOEIC</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,container-queries"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Fredoka:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              // Game palette
+              ink: {
+                50:  "#f7f8fc",
+                100: "#eef0f8",
+                200: "#dcdfee",
+                300: "#b8bcd7",
+                400: "#8a90b9",
+                500: "#5d6597",
+                600: "#3f4675",
+                700: "#2b3157",
+                800: "#1c2040",
+                900: "#12152b",
+                950: "#0a0c1d",
+              },
+              quest: {
+                // Primary indigo-violet
+                50:  "#eef2ff",
+                100: "#e0e7ff",
+                200: "#c7d2fe",
+                300: "#a5b4fc",
+                400: "#818cf8",
+                500: "#6366f1",
+                600: "#4f46e5",
+                700: "#4338ca",
+                800: "#3730a3",
+                900: "#312e81",
+              },
+              xp:      "#fbbf24",     // gold/amber for XP
+              correct: "#22c55e",
+              wrong:   "#f43f5e",
+              streak:  "#fb923c",
+              mastery: "#a855f7",
+            },
+            fontFamily: {
+              sans:    ['"Be Vietnam Pro"', "system-ui", "sans-serif"],
+              display: ['"Fredoka"', '"Be Vietnam Pro"', "sans-serif"],
+            },
+            boxShadow: {
+              "glow-quest":   "0 0 24px -4px rgba(99,102,241,0.55)",
+              "glow-xp":      "0 0 18px -2px rgba(251,191,36,0.65)",
+              "glow-correct": "0 0 18px -2px rgba(34,197,94,0.65)",
+              "glow-wrong":   "0 0 18px -2px rgba(244,63,94,0.65)",
+              "card":         "0 4px 24px -8px rgba(15,15,40,0.35)",
+            },
+            animation: {
+              "fade-in":      "fadeIn 0.25s ease-out forwards",
+              "fade-in-up":   "fadeInUp 0.35s ease-out forwards",
+              "pop-in":       "popIn 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) forwards",
+              "shake":        "shake 0.4s ease-in-out",
+              "float":        "float 3s ease-in-out infinite",
+              "shimmer":      "shimmer 2s linear infinite",
+              "xp-rise":      "xpRise 1.1s ease-out forwards",
+            },
+            keyframes: {
+              fadeIn:   { "0%": { opacity: "0" }, "100%": { opacity: "1" } },
+              fadeInUp: {
+                "0%":   { opacity: "0", transform: "translateY(12px)" },
+                "100%": { opacity: "1", transform: "translateY(0)" },
+              },
+              popIn: {
+                "0%":   { opacity: "0", transform: "scale(0.85)" },
+                "100%": { opacity: "1", transform: "scale(1)" },
+              },
+              shake: {
+                "0%,100%":   { transform: "translateX(0)" },
+                "20%,60%":   { transform: "translateX(-8px)" },
+                "40%,80%":   { transform: "translateX(8px)" },
+              },
+              float: {
+                "0%,100%": { transform: "translateY(0)" },
+                "50%":     { transform: "translateY(-8px)" },
+              },
+              shimmer: {
+                "0%":   { backgroundPosition: "-200% 0" },
+                "100%": { backgroundPosition: "200% 0" },
+              },
+              xpRise: {
+                "0%":   { opacity: "0", transform: "translateY(0) scale(0.9)" },
+                "30%":  { opacity: "1", transform: "translateY(-10px) scale(1.05)" },
+                "100%": { opacity: "0", transform: "translateY(-48px) scale(1)" },
+              },
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      html { scroll-behavior: smooth; font-family: "Be Vietnam Pro", system-ui, sans-serif; }
+      body { font-family: "Be Vietnam Pro", system-ui, sans-serif; }
+      .material-symbols-rounded {
+        font-variation-settings: "FILL" 0, "wght" 500, "GRAD" 0, "opsz" 24;
+        vertical-align: middle;
+      }
+      .no-scrollbar::-webkit-scrollbar { display: none; }
+      .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+      ::selection { background: rgba(99, 102, 241, 0.35); }
+    </style>
+  </head>
+  <body
+    class="bg-ink-50 dark:bg-ink-950 text-ink-900 dark:text-ink-50 transition-colors duration-200 min-h-screen antialiased"
+  >
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
