@@ -1057,7 +1057,6 @@ export const questions: Question[] = [
     "tiles": [
       "the",
       "always",
-      "for",
       "efficiently",
       "team",
       "completes",
@@ -1774,6 +1773,7 @@ export const questions: Question[] = [
     "prompt": "Sắp xếp các từ để tạo thành câu hoàn chỉnh và đúng ngữ pháp:",
     "tiles": [
       "very",
+      "the",
       "the",
       "clearly",
       "explained",

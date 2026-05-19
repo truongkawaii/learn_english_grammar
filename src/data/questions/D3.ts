@@ -193,10 +193,9 @@ export const questions: Question[] = [
       "you",
       "to",
       "work",
-      "do",
-      "?"
+      "do"
     ],
-    "answer": "Do you have any work to do ?",
+    "answer": "Do you have any work to do?",
     "explanationVi": "Cấu trúc 'Danh từ + to V' (work to do) được dùng để bổ nghĩa cho danh từ, chỉ việc cần phải làm.",
     "sentenceVi": "Bạn có việc gì để làm không?",
     "vocabNotes": [
