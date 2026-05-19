@@ -1159,7 +1159,7 @@ export const questions: Question[] = [
       "with-state-verb"
     ],
     "prompt": "Chọn đáp án phù hợp:",
-    "sentence": "The car is covered ___ thick layer of dust after the trip.",
+    "sentence": "The car is covered ___ a thick layer of dust after the trip.",
     "options": [
       "by",
       "with",

@@ -1530,7 +1530,7 @@ export const questions: Question[] = [
       "absolute-no-comparison"
     ],
     "prompt": "Chọn đáp án phù hợp:",
-    "sentence": "This is an ___ solution; nothing better could be designed.",
+    "sentence": "This is a ___ solution; nothing better could be designed.",
     "options": [
       "perfecter",
       "more perfect",

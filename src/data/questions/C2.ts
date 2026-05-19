@@ -1541,19 +1541,19 @@ export const questions: Question[] = [
     "difficulty": 3,
     "tags": [
       "present-perfect-continuous",
-      "ever"
+      "interrogative"
     ],
     "prompt": "Chọn đáp án phù hợp:",
-    "sentence": "You ___ ever ___ for not getting enough sleep recently?",
+    "sentence": "___ you ___ about not getting enough sleep recently?",
     "options": [
-      "have / been complaining",
-      "did / complain",
-      "are / complaining",
-      "do / complain"
+      "Have / been complaining",
+      "Did / complain",
+      "Are / complaining",
+      "Do / complain"
     ],
     "answerIndex": 0,
-    "explanationVi": "HTHT tiếp diễn nghi vấn: Have + S + ever been + V-ing.",
-    "sentenceVi": "Dạo gần đây bạn có bao giờ than vãn vì thiếu ngủ chưa?",
+    "explanationVi": "HTHT tiếp diễn nghi vấn: Have + S + been + V-ing. Trạng từ \"recently\" là dấu hiệu của thì hiện tại hoàn thành/hiện tại hoàn thành tiếp diễn — gợi ý hành động kéo dài cho đến gần đây.",
+    "sentenceVi": "Dạo gần đây bạn vẫn hay than phiền về việc thiếu ngủ phải không?",
     "vocabNotes": [
       {
         "word": "complain",

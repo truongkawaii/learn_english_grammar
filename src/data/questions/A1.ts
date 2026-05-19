@@ -507,7 +507,7 @@ export const questions: Question[] = [
     ],
     "answerIndex": 2,
     "explanationVi": "Danh từ \"information\" là danh từ không đếm được, do đó ta cần dùng từ hạn định \"much\" để bổ nghĩa cho nó. Các lựa chọn khác như \"many\", \"few\", \"several\" dùng cho danh từ đếm được số nhiều.",
-    "sentenceVi": "Có rất ít thông tin về chính sách mới trên trang web của công ty.",
+    "sentenceVi": "Có nhiều thông tin về chính sách mới trên trang web của công ty.",
     "vocabNotes": [
       {
         "word": "information",

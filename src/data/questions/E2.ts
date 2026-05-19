@@ -1574,7 +1574,7 @@ export const questions: Question[] = [
       "unless-modal-must"
     ],
     "prompt": "Chọn đáp án phù hợp:",
-    "sentence": "You must wear a helmet ___ you don't want to be fined.",
+    "sentence": "You must wear a helmet ___ you want to be fined.",
     "options": [
       "if",
       "unless",
@@ -1582,8 +1582,8 @@ export const questions: Question[] = [
       "whether"
     ],
     "answerIndex": 1,
-    "explanationVi": "\"Unless\" = nếu không. Bạn phải đội mũ, nếu không bạn sẽ bị phạt.",
-    "sentenceVi": "Bạn phải đội mũ bảo hiểm trừ khi bạn không muốn bị phạt.",
+    "explanationVi": "\"Unless\" = \"if not\" (nếu không). \"Unless you want to be fined\" = \"nếu bạn không muốn bị phạt\" → bạn phải đội mũ.",
+    "sentenceVi": "Bạn phải đội mũ bảo hiểm trừ khi bạn muốn bị phạt.",
     "vocabNotes": [
       {
         "word": "helmet",

@@ -1447,8 +1447,8 @@ export const questions: Question[] = [
       "the",
       "no article"
     ],
-    "answerIndex": 1,
-    "explanationVi": "\"An\" trước âm nguyên (financial → /f/ phụ âm... thực ra \"f\" là phụ âm). Wait — financial bắt đầu bằng /f/ là phụ âm → \"a\". Sửa: đáp án đúng là \"a\".",
+    "answerIndex": 0,
+    "explanationVi": "\"Financial\" bắt đầu bằng âm /f/ (phụ âm) nên dùng \"a\", không phải \"an\".",
     "sentenceVi": "Anh ấy làm chuyên viên phân tích tài chính tại một ngân hàng lớn.",
     "vocabNotes": [
       {
