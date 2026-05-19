@@ -1018,7 +1018,7 @@ export const questions: Question[] = [
       "will-instant-offer"
     ],
     "prompt": "Chọn đáp án phù hợp:",
-    "sentence": "Don't worry about the bill. I ___ pay this time.",
+    "sentence": "Don't worry about the bill. I ___ this time.",
     "options": [
       "am paying",
       "will pay",

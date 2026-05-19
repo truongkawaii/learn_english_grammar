@@ -625,7 +625,7 @@ export const questions: Question[] = [
       "promise"
     ],
     "prompt": "Chọn đáp án phù hợp:",
-    "sentence": "Don't worry, I ___ help you with the project.",
+    "sentence": "Don't worry, I ___ you with the project.",
     "options": [
       "help",
       "helped",
@@ -1617,7 +1617,7 @@ export const questions: Question[] = [
       "first-conditional-result"
     ],
     "prompt": "Chọn đáp án phù hợp:",
-    "sentence": "If we hire more staff, the workload ___ become more manageable.",
+    "sentence": "If we hire more staff, the workload ___ more manageable.",
     "options": [
       "become",
       "became",

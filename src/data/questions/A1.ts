@@ -1551,7 +1551,7 @@ export const questions: Question[] = [
       "cause-and-effect"
     ],
     "prompt": "Chọn đáp án phù hợp:",
-    "sentence": "The flight was delayed ___ of the severe weather conditions.",
+    "sentence": "The flight was delayed ___ the severe weather conditions.",
     "options": [
       "because",
       "due",
@@ -1559,7 +1559,7 @@ export const questions: Question[] = [
       "because of"
     ],
     "answerIndex": 3,
-    "explanationVi": "Chỗ trống cần một giới từ hoặc cụm giới từ để nối với cụm danh từ 'the severe weather conditions'. 'Because of' là cụm giới từ chỉ nguyên nhân.",
+    "explanationVi": "Chỗ trống cần một cụm giới từ để nối với cụm danh từ 'the severe weather conditions'. 'Because of' là cụm giới từ chỉ nguyên nhân (theo sau là danh từ/cụm danh từ). 'Due' và 'owing' cần đi với 'to' (due to / owing to). 'Because' đơn lẻ là liên từ, cần theo sau là một mệnh đề (S + V).",
     "sentenceVi": "Chuyến bay bị trì hoãn do điều kiện thời tiết khắc nghiệt.",
     "vocabNotes": [
       {
